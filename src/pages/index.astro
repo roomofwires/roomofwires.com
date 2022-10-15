@@ -13,6 +13,16 @@ const items = [
 		copy: 'Our first physical release - the 5 track EP Fever Switch - is out now on Rednetic',
 		image: 'https://f4.bcbits.com/img/a1308427211_16.jpg',
 	},
+	{
+		link: 'https://ant-zen.bandcamp.com/album/plague-of-people',
+		copy: 'Our new album, Plague of People, is out now on ant-zen',
+		image: 'https://f4.bcbits.com/img/a1724747306_16.jpg',
+	},
+	{
+		link: 'https://rednetic.bandcamp.com/album/fever-switch',
+		copy: 'Our first physical release - the 5 track EP Fever Switch - is out now on Rednetic',
+		image: 'https://f4.bcbits.com/img/a1308427211_16.jpg',
+	},
 ];
 ---
 
@@ -23,7 +33,7 @@ const items = [
 			Room of Wires have never met - together they create uneasy electronic music.
 		</p>
 		<div>
-			<ul role="list">
+			<ul role="list" class="grid grid-cols-1 gap-4 md:grid-cols-2">
 				{
 					items.map(({ link, copy, image }) => (
 						<Card link={link} copy={copy} image={image} />
