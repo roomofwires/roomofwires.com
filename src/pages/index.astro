@@ -1,6 +1,19 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+
+const items = [
+	{
+		link: 'https://ant-zen.bandcamp.com/album/plague-of-people',
+		copy: 'Our new album, Plague of People, is out now on ant-zen',
+		image: 'https://f4.bcbits.com/img/a1724747306_16.jpg',
+	},
+	{
+		link: 'https://rednetic.bandcamp.com/album/fever-switch',
+		copy: 'Our first physical release - the 5 track EP Fever Switch - is out now on Rednetic',
+		image: 'https://f4.bcbits.com/img/a1308427211_16.jpg',
+	},
+];
 ---
 
 <Layout title="Room of Wires">
@@ -9,17 +22,18 @@ import Card from '../components/Card.astro';
 		<p>
 			Room of Wires have never met - together they create uneasy electronic music.
 		</p>
-		<ul role="list">
-			<Card
-				link="https://ant-zen.bandcamp.com/album/plague-of-people"
-				copy="Our new album, Plague of People, is out now on ant-zen"
-				img="https://f4.bcbits.com/img/a1724747306_16.jpg"
-			/>
-			<Card
-				link="https://rednetic.bandcamp.com/album/fever-switch"
-				copy="Our first physical release - the 5 track EP Fever Switch - is out now on Rednetic"
-				img="https://f4.bcbits.com/img/a1308427211_16.jpg"
-			/>
-		</ul>
+		<div>
+			<ul role="list">
+				{
+					items.map(({ link, copy, image }) => (
+						<Card
+							link={link}
+							copy={copy}
+							image={image}
+						/>
+					))
+				}
+			</ul>
+		</div>
 	</main>
 </Layout>

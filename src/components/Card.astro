@@ -1,20 +1,20 @@
 ---
 export interface Props {
 	copy: string;
-	img: string;
+	image: string;
 	link: string;
 }
 
-const { link, copy, img } = Astro.props;
+const { link, copy, image } = Astro.props;
 ---
 
 <li>
 	<div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
 		<a href={link}>
-			<img class="rounded-t-lg" src={img} alt="" />
+			<img class="rounded-t-md" src={image} alt="" />
+			<div class="p-5">
+				<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{copy}</p>
+			</div>
 		</a>
-		<div class="p-5">
-			<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{copy}</p>
-		</div>
 	</div>
 </li>
