@@ -1,18 +1,18 @@
 ---
 export interface Props {
-	copy: string;
-	image: string;
 	link: string;
+	image: string;
+	copy: string;
 }
 
-const { link, copy, image } = Astro.props;
+const { link, image, copy } = Astro.props;
 ---
 
-<div class="w-48 rounded-md border shadow-md bg-gray-800 border-gray-700">
+<div class="mx-auto border bg-gray-800 border-gray-700">
 	<a href={link}>
-		<img class="rounded-t-md" src={image} alt="" />
-		<div class="p-5">
-			<p class="mb-3 text-xs font-normal text-gray-400">{copy}</p>
+		<img class="aspect-square" src={image} alt="" />
+		<div class="p-2 h-18 text-center align-middle">
+			<p class="text-xs text-gray-400">{copy}</p>
 		</div>
 	</a>
 </div>
