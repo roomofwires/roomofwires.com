@@ -32,14 +32,12 @@ const items = [
 		<p>
 			Room of Wires have never met - together they create uneasy electronic music.
 		</p>
-		<div>
-			<ul role="list" class="grid grid-cols-1 gap-4 md:grid-cols-2">
-				{
-					items.map(({ link, copy, image }) => (
-						<Card link={link} copy={copy} image={image} />
-					))
-				}
-			</ul>
+		<div class="grid grid-cols-1 gap-4 md:grid-cols-2">
+			{
+				items.map(({ link, copy, image }) => (
+					<Card link={link} copy={copy} image={image} />
+				))
+			}
 		</div>
 	</main>
 </Layout>
