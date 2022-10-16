@@ -1,0 +1,85 @@
+{
+	"posts":
+		[
+			{
+				"link": "https://ping-discs.bandcamp.com/album/the-vinyl-loop",
+				"image": "../public/images/vinyl_loop.jpg",
+				"copy": "Our remix of Paperboard Sun appears on the album The Vinyl Loop by 4T Thieves"
+			},
+			{
+				"link": "https://soundcloud.com/roomofwires/dust-map-remix-by-steinhart",
+				"image": "../public/images/dust_map_steinhart.jpg",
+				"copy": "We have a new remix in from Steinhart, with thier take on Dust Map"
+			},
+			{
+				"link": "https://aieseattle.itch.io/quantum-reset",
+				"image": "../public/images/quantum_reset_game.jpg",
+				"copy": "Music for Quantum Reset game out of AIE Seattle"
+			},
+			{
+				"link": "https://rauschkonzern.bandcamp.com/album/fake-news",
+				"image": "../public/images/fake_news.jpg",
+				"copy": "We have got two remixes for Steinhart, out now on Rauschkonzern Records"
+			},
+			{
+				"link": "https://section27.bandcamp.com/track/13yrs-mx-part-ii",
+				"image": "../public/images/s27_13_years.jpg",
+				"copy": "Back Compression kicks of S27s 13 years remix part II"
+			},
+			{
+				"link": "https://kalteldur.blogspot.com/2022/04",
+				"image": "../public/images/kalteldur_review.jpg",
+				"copy": "Kalteldur review Fever Switch EP 'a gloomy jaw-dropping high-tech pearl'"
+			},
+			{
+				"link": "https://igloomag.com/profiles/room-of-wires-making-music-in-total-isolation",
+				"image": "../public/images/igloo_interview.jpg",
+				"copy": "We break silence with a rare interview for electronic music magazine Igloo"
+			},
+			{
+				"link": "http://www.alienairmusic.com",
+				"image": "../public/images/alien_air_radio.jpg",
+				"copy": "Dissolved, Morphology, Isostatic, Room of Wires all feature on Alien Air Music on Radio KXLU"
+			},
+			{
+				"link": "https://igloomag.com/features/best-of-2021",
+				"image": "../public/images/igloo_best_2021.jpg",
+				"copy": "Thanks to the team at Igloo - featured in the Best of 2021 albums"
+			},
+			{
+				"link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-ii",
+				"image": "../public/images/mad_ii.jpg",
+				"copy": "Minidrome from our collaboration with Station Zero released on M.A.D. 2 compilation"
+			},
+			{
+				"link": "https://www.mixcloud.com/dubiks-music/tracks-of-the-month-electronic-1121connectfm",
+				"image": "../public/images/dubiks-mix.jpg",
+				"copy": "Dubiks tracks of the month mix, including The Black Dog, Bonobo, Room of Wires..."
+			},
+			{
+				"link": "https://dubiks.com/2021/10/27/premiere-room-of-wires-never-seen-before-rednetic",
+				"image": "../public/images/dubiks-fever-switch.jpg",
+				"copy": "'The track that caught our ears was TouchToneOne, sounds almost Orb-y in places' - Dubiks"
+			},
+			{
+				"link": "https://www.internationaldjmag.com/premiere-touchtoneone-by-room-of-wires.html",
+				"image": "../public/images/idj-fever-switch.jpg",
+				"copy": "'Fractured beats, dark industrial FX and twitchy, wonked-out ambience galore' - Fever Switch EP premiered on IDJ"
+			},
+			{
+				"link": "https://rednetic.bandcamp.com/album/fever-switch",
+				"image": "../public/images/fever_switch_cover.jpg",
+				"copy": "Our first physical release - the 5 track EP Fever Switch - is out now on Rednetic"
+			},
+			{
+				"link": "https://igloomag.com/reviews/room-of-wires-fever-switch-rednetic",
+				"image": "../public/images/Igloo_Fever_Switch.jpg",
+				"copy": "Fever Switch reviewed on Igloo Mag: 'I will happily part with cash to own physically'"
+			},
+			{
+				"link": "https://www.side-line.com/room-of-wires-plague-of-people-album-ant-zen",
+				"image": "../public/images/sideline_pop.jpg",
+				"copy": "'Complex, sophisticated and yet easily accessible' - Side-Line Magazine reviews Plague of People"
+			}
+		]
+}
