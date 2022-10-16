@@ -8,11 +8,11 @@ export interface Props {
 const { link, copy, image } = Astro.props;
 ---
 
-<div class="max-w-sm rounded-sm border shadow-md bg-gray-800 border-gray-700">
+<div class="w-48 rounded-md border shadow-md bg-gray-800 border-gray-700">
 	<a href={link}>
 		<img class="rounded-t-md" src={image} alt="" />
 		<div class="p-5">
-			<p class="mb-3 font-normal text-gray-400">{copy}</p>
+			<p class="mb-3 text-xs font-normal text-gray-400">{copy}</p>
 		</div>
 	</a>
 </div>
