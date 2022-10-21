@@ -2,7 +2,9 @@
 const { title, tagline } = Astro.props;
 ---
 
-<div class="h-64 bg-gray-600 mb-4 text-left text-gold brutal align-bottom">
-    <h1>{title}</h1>
-    <p>{tagline}</p>
+<div class="relative h-64 bg-gray-600 pl-4 mb-4 text-left text-gold brutal">
+    <div class="absolute bottom-4">
+        <h1>{title}</h1>
+        <p>{tagline}</p>
+    </div>
 </div>
