@@ -1,7 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
+import Menu from '../components/Menu.astro';
 import Masthead from '../components/Masthead.astro';
+import Card from '../components/Card.astro';
 
 import latest from '../data/latest.json'
 ---
@@ -9,7 +10,8 @@ import latest from '../data/latest.json'
 <Layout title="Room of Wires">
 	<main>
 		<div class="bg-camo">
-			<div class="container mx-auto max-w-md lg:max-w-4xl md:max-w-2xl">
+			<Menu />
+			<div class="pt-4 container mx-auto max-w-md lg:max-w-4xl md:max-w-2xl">
 				<Masthead
 					title="FRAGILE MELODIC MOMENTS"
 					tagline="Room of Wires have never met - together they create uneasy electronic music"
