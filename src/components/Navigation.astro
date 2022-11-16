@@ -1,0 +1,28 @@
+---
+import Menu from "../components/Menu.astro";
+
+const { location } = Astro.props;
+---
+
+<nav class="bg-gray-900 py-4">
+  <div
+    class="container flex justify-between mx-auto px-4 max-w-md lg:max-w-4xl md:max-w-2xl text-xs"
+  >
+    <div class="items-center flex-shrink-0 mr-6">
+      <img class="h-5 mt-0.5" src="/images/menu-logo.png" />
+    </div>
+    <div class="hidden lg:flex brutal mt-0.5">
+      <Menu location={location} />
+    </div>
+    <div class="flex lg:hidden" x-data="{ open: false }">
+      <div class="space-y-1.5" x-on:click="open = ! open">
+        <span class="block w-8 h-1 bg-gold"></span>
+        <span class="block w-8 h-1 bg-gold"></span>
+        <span class="block w-8 h-1 bg-gold"></span>
+      </div>
+      <div class="lg:flex brutal mt-0.5" x-show="open" x-transition>
+        <Menu location={location} />
+      </div>
+    </div>
+  </div>
+</nav>
