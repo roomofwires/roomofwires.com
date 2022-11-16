@@ -20,7 +20,12 @@ const { location } = Astro.props;
         <span class="block w-8 h-1 bg-gold"></span>
         <span class="block w-8 h-1 bg-gold"></span>
       </div>
-      <div class="lg:flex brutal mt-0.5" x-show="open" x-transition>
+      <div
+        class="absolute right-2 top-16 px-8 pb-4 brutal bg-gray-900 z-10"
+        x-show="open"
+        x-transition.enter.duration.500ms
+        x-transition.leave.duration.250ms
+      >
         <Menu location={location} />
       </div>
     </div>
