@@ -6,7 +6,7 @@ const { location } = Astro.props;
 
 <nav class="bg-gray-900 py-4">
   <div
-    class="container flex justify-between mx-auto px-4 max-w-md lg:max-w-4xl md:max-w-2xl text-xs"
+    class="container flex justify-between mx-auto px-4 max-w-md lg:max-w-4xl md:max-w-2xl text-s"
   >
     <div class="items-center flex-shrink-0 mr-6">
       <img class="h-5 mt-0.5" src="/images/menu-logo.png" />
@@ -22,7 +22,7 @@ const { location } = Astro.props;
       </div>
       <div class="relative">
         <div
-          class="absolute right-0 top-10 px-8 pb-4 brutal bg-gray-900 z-10"
+          class="absolute -right-2 top-12 px-4 pb-4 brutal text-right bg-gray-900 z-10"
           x-show="open"
           x-transition.enter.duration.500ms
           x-transition.leave.duration.250ms
