@@ -2,83 +2,668 @@
   "posts": [
     {
       "link": "https://ping-discs.bandcamp.com/album/the-vinyl-loop",
-      "image": "/images/vinyl_loop.jpg",
+      "image": "images/vinyl_loop.jpg",
       "copy": "Our remix of Paperboard Sun appears on the album The Vinyl Loop by 4T Thieves"
     },
     {
       "link": "https://soundcloud.com/roomofwires/dust-map-remix-by-steinhart",
-      "image": "/images/dust_map_steinhart.jpg",
+      "image": "images/dust_map_steinhart.jpg",
       "copy": "We have a new remix in from Steinhart, with thier take on Dust Map"
     },
     {
       "link": "https://aieseattle.itch.io/quantum-reset",
-      "image": "/images/quantum_reset_game.jpg",
+      "image": "images/quantum_reset_game.jpg",
       "copy": "Music for Quantum Reset game out of AIE Seattle"
     },
     {
       "link": "https://rauschkonzern.bandcamp.com/album/fake-news",
-      "image": "/images/fake_news.jpg",
-      "copy": "We have got two remixes for Steinhart, out now on Rauschkonzern Records"
+      "image": "images/fake_news.jpg",
+      "copy": "We've got two remixes for Steinhart, out now on Rauschkonzern Records"
     },
     {
       "link": "https://section27.bandcamp.com/track/13yrs-mx-part-ii",
-      "image": "/images/s27_13_years.jpg",
-      "copy": "Back Compression kicks of S27s 13 years remix part II"
+      "image": "images/s27_13_years.jpg",
+      "copy": "Back Compression kicks of S27's 13 years remix part II"
     },
     {
       "link": "https://kalteldur.blogspot.com/2022/04",
-      "image": "/images/kalteldur_review.jpg",
+      "image": "images/kalteldur_review.jpg",
       "copy": "Kalteldur review Fever Switch EP 'a gloomy jaw-dropping high-tech pearl'"
     },
     {
       "link": "https://igloomag.com/profiles/room-of-wires-making-music-in-total-isolation",
-      "image": "/images/igloo_interview.jpg",
+      "image": "images/igloo_interview.jpg",
       "copy": "We break silence with a rare interview for electronic music magazine Igloo"
     },
     {
       "link": "http://www.alienairmusic.com",
-      "image": "/images/alien_air_radio.jpg",
+      "image": "images/alien_air_radio.jpg",
       "copy": "Dissolved, Morphology, Isostatic, Room of Wires all feature on Alien Air Music on Radio KXLU"
     },
     {
       "link": "https://igloomag.com/features/best-of-2021",
-      "image": "/images/igloo_best_2021.jpg",
+      "image": "images/igloo_best_2021.jpg",
       "copy": "Thanks to the team at Igloo - featured in the Best of 2021 albums"
     },
     {
       "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-ii",
-      "image": "/images/mad_ii.jpg",
+      "image": "images/mad_ii.jpg",
       "copy": "Minidrome from our collaboration with Station Zero released on M.A.D. 2 compilation"
     },
     {
       "link": "https://www.mixcloud.com/dubiks-music/tracks-of-the-month-electronic-1121connectfm",
-      "image": "/images/dubiks-mix.jpg",
-      "copy": "Dubiks tracks of the month mix, including The Black Dog, Bonobo, Room of Wires."
+      "image": "images/dubiks-mix.jpg",
+      "copy": "Dubiks tracks of the month mix, including The Black Dog, Bonobo, Room of Wires..."
     },
     {
       "link": "https://dubiks.com/2021/10/27/premiere-room-of-wires-never-seen-before-rednetic",
-      "image": "/images/dubiks-fever-switch.jpg",
+      "image": "images/dubiks-fever-switch.jpg",
       "copy": "'The track that caught our ears was TouchToneOne, sounds almost Orb-y in places' - Dubiks"
     },
     {
       "link": "https://www.internationaldjmag.com/premiere-touchtoneone-by-room-of-wires.html",
-      "image": "/images/idj-fever-switch.jpg",
+      "image": "images/idj-fever-switch.jpg",
       "copy": "'Fractured beats, dark industrial FX and twitchy, wonked-out ambience galore' - Fever Switch EP premiered on IDJ"
     },
     {
       "link": "https://rednetic.bandcamp.com/album/fever-switch",
-      "image": "/images/fever_switch_cover.jpg",
+      "image": "images/fever_switch_cover.jpg",
       "copy": "Our first physical release - the 5 track EP Fever Switch - is out now on Rednetic"
     },
     {
       "link": "https://igloomag.com/reviews/room-of-wires-fever-switch-rednetic",
-      "image": "/images/Igloo_Fever_Switch.jpg",
+      "image": "images/Igloo_Fever_Switch.jpg",
       "copy": "Fever Switch reviewed on Igloo Mag: 'I will happily part with cash to own physically'"
     },
     {
       "link": "https://www.side-line.com/room-of-wires-plague-of-people-album-ant-zen",
-      "image": "/images/sideline_pop.jpg",
+      "image": "images/sideline_pop.jpg",
       "copy": "'Complex, sophisticated and yet easily accessible' - Side-Line Magazine reviews Plague of People"
+    },
+    {
+      "link": "https://archive.tilos.hu/cache/tilos-20210924-052410-070242.mp3",
+      "image": "images/rhkirk_tribute.jpg",
+      "copy": "dj kraak set for Radio Tilos - Richard H Kirk tribute including Room of Wires (direct download)"
+    },
+    {
+      "link": "http://kxlu.indycast.net:8890/sun/8pm/2hr/alien_air_music.html",
+      "image": "images/alien_air_music.jpg",
+      "copy": "Alien Air on KXLU Los Angeles - featuring illl, Namlook and Schulze, Room of Wires (Weldroid rmx) and many more"
+    },
+    {
+      "link": "https://www.mixcloud.com/Radboud/earbitten-20210709",
+      "image": "images/earbitten.jpg",
+      "copy": "Earbitten 09.07.21 - Radboud Mens' eclectic mix from Sub-Rosa, ant-zen, Room 40, LINE and ROHS"
+    },
+    {
+      "link": "https://soundcloud.com/indexidm/s27-sectioned-index-mix",
+      "image": "images/s27_v8_mix.jpg",
+      "copy": "Glorious S27 mix for INDEx #16 - a selection of tracks for the V8.0 V/A compilation album"
+    },
+    {
+      "link": "https://www.mixcloud.com/RadioMa3azef/rabbitcat-w-room-of-wires-mitoma-and-weldroid",
+      "image": "images/rabbitcat.jpg",
+      "copy": "Our Room of Wires and friends special set for Rabbitcat on MA3AZEF Radio, featuring Mitoma and Weldroid"
+    },
+    {
+      "link": "https://naba.lsm.lv/lv/raksts/dabsolis/k.sila-vasaras-juras-vilnis.a145436",
+      "image": "images/vibe55.jpg",
+      "copy": "Vibe 55 - S27 V8.0 sampler - 6 track mix from the V8.0 Compilation including Pharmacon by RoW"
+    },
+    {
+      "link": "https://www.mixcloud.com/SetSRradio/sampler-sans-reproches-n1219-07062021-top-of-the-week-kurs-muter",
+      "image": "images/n1219.jpg",
+      "copy": "Dark EBM - SynthWave - Industrial - Session featuring Absolute Body Control, Kurs, Fractions, Room of Wires and more"
+    },
+    {
+      "link": "https://igloomag.com/newswire/v8-0-section-27",
+      "image": "images/s27_v8.jpg",
+      "copy": "'Room of Wires' rugged yet minimal industrial punch' - Section 27 return with a 4-hour experimental electronic compilation album"
+    },
+    {
+      "link": "https://open.spotify.com/playlist/0qx0eAj1TvDk5WFNJscqjd",
+      "image": "images/ecki_stieg.jpg",
+      "copy": "A connoisseu's collection of electronica from Ecki Stieg"
+    },
+    {
+      "link": "http://www.premo.fr/transmission/page/page=&filter=Bertrand",
+      "image": "images/tentative_de_transmission_67.jpg",
+      "copy": "Prémonition - 67th Tentative de Transmission by Bertrand Hamonou - download MP3"
+    },
+    {
+      "link": "https://www.releasemagazine.net/reviews/room-of-wires-plague-of-people",
+      "image": "images/release_mag_pop.jpg",
+      "copy": "'It drifts between layers of the mix, revealing more and more as you listen to it' - Release Magazine reviews Plague of People"
+    },
+    {
+      "link": "https://soundcloud.com/indexidm/index-mix-14-room-of-wires",
+      "image": "images/index_mix_14.jpg",
+      "copy": "We've put together a mix for INDEx, just some of the great music going through our brains of late..."
+    },
+    {
+      "link": "https://shop.spreadshirt.co.uk/roomofwires",
+      "image": "images/modular_tees.jpg",
+      "copy": "We had illustrator IWDDK create these modular tees, and they're currently only £13.49, worth a look"
+    },
+    {
+      "link": "https://archive.tilos.hu/cache/tilos-20210507-053107-070725.mp3",
+      "image": "images/tilos_ant_zen.jpg",
+      "copy": "A label special featuring bands on ant-zen (direct download)"
+    },
+    {
+      "link": "https://www.mixcloud.com/derretronaut/18042021-tea-time-freak-room",
+      "image": "images/freak_room.jpg",
+      "copy": "Team Time Freak Show including Kraftwerk, Klinik, Underviewer, Room of Wires and loads more"
+    },
+    {
+      "link": "https://www.mixcloud.com/uurObscuur/horae-obscura-unus-multorum",
+      "image": "images/horae_obscura.jpg",
+      "copy": "Horae Obscura - a dark, eerie selection including Cathode Ray Tube, Mount Shrine, Your Inner Prison, Room of Wires and more"
+    },
+    {
+      "link": "http://lastdaydeaf.com/beyond-boundaries-fifty-three",
+      "image": "images/beyond_boundaries.jpg",
+      "copy": "Beyond Boundaries is a 10-track playlist aiming to feature 10 'out-of-the-box' outstanding gems!"
+    },
+    {
+      "link": "https://www.mixcloud.com/ahanna0912/bann-and-the-fix-for-voodoo-radio-online-2114-chaos-bleak-special",
+      "image": "images/voodoo_radio.jpg",
+      "copy": "Voodoo Radio - industrial, post punk and a new slice of Room of Wires"
+    },
+    {
+      "link": "https://igloomag.com/reviews/room-of-wires-plague-of-people-ant-zen",
+      "image": "images/igloo_pop.jpg",
+      "copy": "'Fragrant broken-beat melodics that one simply can't turn away from' - Igloo magazine reviews Plague of People"
+    },
+    {
+      "link": "https://ant-zen.bandcamp.com/album/plague-of-people",
+      "image": "images/ant-zen-dig075-x08.jpg",
+      "copy": "The new album, Plague of People, is out now on ant-zen"
+    },
+    {
+      "link": "https://youtu.be/nOlRUIq8Clg",
+      "image": "images/alcohole_vid.jpg",
+      "copy": "The video for Alcohole, taken from the new album Plague of People, produced by Daz Disley"
+    },
+    {
+      "link": "https://www.mixcloud.com/Nonima27/mitoma-x-room-of-wires-x-weldroid-pastpresentfuture",
+      "image": "images/past-present-future.jpg",
+      "copy": "PAST:PRESENT:FUTURE - Mitoma + Room of Wires + Weldroid in one… curated by S27"
+    },
+    {
+      "link": "https://hearthis.at/djinfectiousunease/26-01-2021-infectious-unease-radio-1397-eclectic-sound",
+      "image": "images/unease1397.jpg",
+      "copy": "The first track from the new album escapes..."
+    },
+    {
+      "link": "https://open.spotify.com/playlist/4y5Pd5gkEO5Kk86OSOwRQ8?si=2T0-b6D1QkO3woa5rC241w",
+      "image": "images/cv_out_404.jpg",
+      "copy": "CV OUT 404 playlist including Oberman, Lanark, Gaza, FSoL and more"
+    },
+    {
+      "link": "https://cianorbe2nd.bandcamp.com/track/apocalypse-beach",
+      "image": "images/landscapes_vol2.jpg",
+      "copy": "Apocalypse Beach appears on this atmospheric compilation from Cian Orbe"
+    },
+    {
+      "link": "https://www.mixcloud.com/netwaves/nwsbpm082",
+      "image": "images/nwsbpm082.jpg",
+      "copy": "Some fresh electronic tunes from Lockdown, featuring our track Face Melt"
+    },
+    {
+      "link": "https://planet-x-records.bandcamp.com/album/hybrid",
+      "image": "images/hybrid_comp.jpg",
+      "copy": "Previously unreleased track Face Melt appears on Cian Orbe 'Hybrid' compilation"
+    },
+    {
+      "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/track/burn-culture",
+      "image": "images/mad_comp.jpg",
+      "copy": "M.A.D. a lovingly curated compilation featuring the first track from our collaboration with Station Zero"
+    },
+    {
+      "link": "https://www.mixcloud.com/RASPRadioShow/rasp-podcast-20th-december-2020-no-177-infinite-speedbump",
+      "image": "images/rasp_177.jpg",
+      "copy": "RASP Podcast #177 featuring 4rd, .47 Seconds/Tomas Horn, Zino, Michiru Aoyama and there's some RoW in there too"
+    },
+    {
+      "link": "https://www.mixcloud.com/ThreadsRadio/darkfloor-sound-25-oct-20",
+      "image": "images/threadsradio.jpg",
+      "copy": "We open the show, along with tracks from The Bug, eatmybeat, Northern Electronics, James Ruskin, and lots more"
+    },
+    {
+      "link": "https://obseqvivmrecords.bandcamp.com/album/colvmn-va-03",
+      "image": "images/colvmn.jpg",
+      "copy": "Brand new track Spooked appears on the powerful compilation from Obseqvivm Records"
+    },
+    {
+      "link": "https://www.syndae.de/12-episode/900-episode-522",
+      "image": "images/syndae522.jpg",
+      "copy": "Syndae Podcast #522, with music by Weldroid & Room of Wires, Amotken, Ombra Obscvra, Ben Cox, Erratic and Soul Flask"
+    },
+    {
+      "link": "https://www.mixcloud.com/Radboud/staalplaat-radio-show-2020-07-on-dfmnu-20200402",
+      "image": "images/staalplaat.jpg",
+      "copy": "Hear our Thomas Leer remix on the Staalplaat radio show on DFM.nu"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/all-ears-and-eyes",
+      "image": "images/earseyes.jpg",
+      "copy": "Another brand new track, All Ears And Eyes, is now available to stream on SoundCloud"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/nautinauti",
+      "image": "images/nauti.jpg",
+      "copy": "New track NautiNauti is now available to stream on SoundCloud"
+    },
+    {
+      "link": "https://www.mixcloud.com/formalmethod/look-at-the-stars-above",
+      "image": "images/stars_above.jpg",
+      "copy": "Great new mix from Formal Method, including Atbey, The Dones, Venetian Snares, Room of Wires and more..."
+    },
+    {
+      "link": "https://blackboxrecordings.bandcamp.com/album/planetwonkmixtapes-v10-glitch",
+      "image": "images/wonky_mixtapes.jpg",
+      "copy": "Forthcoming collection from Black Box Recordings, featuring RoW track Crushing The Envelope"
+    },
+    {
+      "link": "https://soundcloud.com/thomasleer/emotional-hardware-room-of-wires-mix",
+      "image": "images/emotional_hardware.jpg",
+      "copy": "Listen to our remix of Emotional Hardware by the legend that is Thomas Leer"
+    },
+    {
+      "link": "https://www.facebook.com/events/607103376738260",
+      "image": "images/neo_edo.jpg",
+      "copy": "We have five tracks as part of a set to be played in Montreal on Saturday 7th March"
+    },
+    {
+      "link": "https://igloomag.com/reviews/in-rotation-multi-view-feb-2020-2",
+      "image": "images/in-rotation_feb2020.jpg",
+      "copy": "'An enlightened EP that doesn't disappoint' - Igloo Magazine reviews The Deep Blue Knight"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/the-deep-blue-knight",
+      "image": "images/blue_knight_ep.jpg",
+      "copy": "Our collaboration with Weldroid 'The Deep Blue Knight” is out now on S27"
+    },
+    {
+      "link": "https://youtu.be/WtIZ4eRit8s",
+      "image": "images/deep_blue.jpg",
+      "copy": "Check out the video from 'The Deep Blue Knight” - our collaboration with Weldroid on S27"
+    },
+    {
+      "link": "https://www.mixcloud.com/radiofreematlock/the-ieg-presents-the-midweek-electronica-show-with-lippy-kid-feb-4-2020/",
+      "image": "images/lippy_kid.jpg",
+      "copy": "Lippy Kid returns to present another edition of The Electronica Show"
+    },
+    {
+      "link": "https://darkfloor.co.uk/mantis-radio-304-room-of-wires/",
+      "image": "images/mantis_304.jpg",
+      "copy": "First Mantis session of 2020, with an exclusive RoW mix"
+    },
+    {
+      "link": "https://hearthis.at/djinfectiousunease/16-12-2019-infectious-unease-radio-db-jungle-industrial-darkstep-techno-electronic-glitchhop-gothic",
+      "image": "images/infectious-unease2.jpg",
+      "copy": "Night Ryde is again featured on the Infectious Unease radio show"
+    },
+    {
+      "link": "https://eatthesun1.bandcamp.com/album/fingers-ep",
+      "image": "images/ets_fingers.jpg",
+      "copy": "Remix of Fingers appears on the new EP by Eat The Sun"
+    },
+    {
+      "link": "https://hearthis.at/djinfectiousunease/26-11-2019-infectious-unease-radio-industrial-industrial-techno-gothic-industrial-industrial-metal",
+      "image": "images/infectious-unease.jpg",
+      "copy": "Night Ryde is featured on the Infectious Unease radio show amoungst a mix of industrial, metal and goth"
+    },
+    {
+      "link": "https://open.spotify.com/playlist/0WVRK50cFF4yZFAhN2fgrZ",
+      "image": "images/cv_out_non.jpg",
+      "copy": "Listen to the latest CV OUT set on Spotify, a blend of old and new electronics"
+    },
+    {
+      "link": "https://www.flickr.com/photos/slumgothicx",
+      "image": "images/cage_art.jpg",
+      "copy": "Art festival, x-church, Gainsborough"
+    },
+    {
+      "link": "https://igloomag.com/reviews/room-of-wires-test-subject",
+      "image": "images/igloo_test_subject.jpg",
+      "copy": "'A mind bending collection of late night experimental electronics' - Igloo Magazine reviews Test Subject"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/test-subject",
+      "image": "images/Test_Subject_1000x1000.jpg",
+      "copy": "New mini LP 'Test Subject' is out now on Bandcamp"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/haas-light",
+      "image": "images/haas_light.jpg",
+      "copy": "Listen to exclusive album outtake 'Haas Light' on SoundCloud"
+    },
+    {
+      "link": "https://youtu.be/LDMNJddxjNk",
+      "image": "images/darkness_vid.jpg",
+      "copy": "The Darkness... video produced by Daz Disley with assistance from Fenia Kotsopoulou and Victoria McClelland"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com",
+      "image": "images/test_subject_detail.jpg",
+      "copy": "New 6 track mini LP 'Test Subject', with a bonus track on download, will be self-released on 18/10/19"
+    },
+    {
+      "link": "https://circlewithadot.net/2019/09/23/i-heart-noise-guest-mix-3",
+      "image": "images/incentive.jpg",
+      "copy": "Incentive picks Apocalypse Beach on his third guest mix for I Heart Noise"
+    },
+    {
+      "link": "https://darkfloor.co.uk/mantis-radio-291-orb-tapes",
+      "image": "images/mantis291.jpg",
+      "copy": "Radical Eyes features on episode 291 of the brilliant Mantis Radio"
+    },
+    {
+      "link": "https://www.mixcloud.com/NewWeirdPlanet/wonky-planet-wireless-show-30_08_2019",
+      "image": "images/wonky_decks.jpg",
+      "copy": "Listen to the latest show from 'John Peel for the 21st century', featuring The Actions, Frankie Machina, Badass, Room of Wires and more"
+    },
+    {
+      "link": "https://igloomag.com/newswire/weldroid-friends-maneuvers-kaeruiks",
+      "image": "images/maneuverstracks.png",
+      "copy": "'Here's another jam-packed assortment of pixelated electronics taking us into the next decade' - Igloomag"
+    },
+    {
+      "link": "https://ihrtn.net/listen-guest-mix-by-room-of-wires",
+      "image": "images/iheartnoisemix.png",
+      "copy": "RoW mix of old-school choice cuts from Aphex, Autechre, The Black Dog and many more"
+    },
+    {
+      "link": "https://www.mixcloud.com/phantomcircuit/phantom-circuit-265-same-wavelength",
+      "image": "images/phantom_circuit.jpg",
+      "copy": "Listen to us on Phantom Circuit #265, along side Severed Heads, Smersh, The Nautiloids, Juana Molina and more"
+    },
+    {
+      "link": "https://kaer-uiks.bandcamp.com/album/maneuvers",
+      "image": "images/maneuvers_physical.jpg",
+      "copy": "Remix of Vandal Attack appears on the forthcoming album by Weldroid & Friends"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/ix-xix-2009-2019-showcase",
+      "image": "images/s27_showcase.jpg",
+      "copy": "Debut release Asylum Sneaker appears on the 2009-2019 Showcase compilation from Section27"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/s27-x-ii",
+      "image": "images/s27-x-ii.jpg",
+      "copy": "A new compilation marking the 10th year of underground electronics from S27, featuring a brand new track"
+    },
+    {
+      "link": "https://blackboxrecordings.bandcamp.com/album/psychopomp-bbr-pitch-collection-13",
+      "image": "images/psychopomp.jpg",
+      "copy": "Forthcoming collection from Frankie Machina on Black Box Recordings, featuring a RoW remix"
+    },
+    {
+      "link": "https://github.com/roomofwires/maxforlive/",
+      "image": "images/maxforlive.jpg",
+      "copy": "A couple of Max For Live devices, created during the recording of new material, made available for free"
+    },
+    {
+      "link": "https://www.mixcloud.com/NewWeirdPlanet/wonky-planet-radio-show-080319/",
+      "image": "images/wonky80319.png",
+      "copy": "Another appearance on the wonderful Wonky Planet Radio Show"
+    },
+    {
+      "link": "https://kaer-uiks.bandcamp.com/album/applied-sociolinguistics",
+      "image": "images/krx019.jpg",
+      "copy": "Flux Stator appears on Applied Sociolinguistics, a compilation celebrating 3 years of German label Kaer‘Uiks"
+    },
+    {
+      "link": "https://www.mixcloud.com/andrewandrews9003888/s27_row_11_11_set/",
+      "image": "images/s27_wt_mix.png",
+      "copy": "Special S27 set for launch of White Transit LP - a crushing electronic journey from Devine and OPN, to Patten, Lorn and Eigenheimer"
+    },
+    {
+      "link": "https://igloomag.com/features/best-of-2018",
+      "image": "images/igloo_best_2018.png",
+      "copy": "Igloo Magazine's Best of 2018 - includes White Transit album"
+    },
+    {
+      "link": "https://www.mixcloud.com/mattweirdojackson/session-129/",
+      "image": "images/session129.jpg",
+      "copy": "A fortnightly show of weird and wonderful things, this session features tracks from White Transit"
+    },
+    {
+      "link": "https://www.mixcloud.com/NewWeirdPlanet/wonky-planet-radio-show-161118/",
+      "image": "images/wonky1611.jpg",
+      "copy": "Opening the Wonky Planet Radio Show, this time with Night Ryde"
+    },
+    {
+      "link": "https://igloomag.com/reviews/room-of-wires-white-transit",
+      "image": "images/igloo_wt_review.png",
+      "copy": "'A momentous 2018 album that takes flight on its own' - Igloo Magazine reviews White Transit"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/white-transit",
+      "image": "images/white_transit.jpg",
+      "copy": "Over a year in the making, our first full length album, White Transit, is out now"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=g4HFLUYLIvk",
+      "image": "images/white_transit_vid.png",
+      "copy": "See the stunning video for the title track of the White Transit album"
+    },
+    {
+      "link": "https://www.mixcloud.com/NewWeirdPlanet/wonky-planet-radio-show-091118/",
+      "image": "images/wonky_show.jpg",
+      "copy": "Listen to the Wonky Planet Radio Show, featuring a preview of the White Transit album"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/cassiterite",
+      "image": "images/cassiterite.jpg",
+      "copy": "We've set ourselves high standards for the upcoming full length album - this didn't make it"
+    },
+    {
+      "link": "https://archive.org/details/dark4/",
+      "image": "images/dark4.jpg",
+      "copy": "Known November appears on the latest compilation from Planet X Records - listen here"
+    },
+    {
+      "link": "https://shop.spreadshirt.co.uk/roomofwires/",
+      "image": "images/spreadshirt.png",
+      "copy": "All new Room of Wires t-shirts available here"
+    },
+    {
+      "link": "https://youtu.be/FpSN8jj5_JI",
+      "image": "images/untold_hairstories.jpg",
+      "copy": "View Untold Hairstories a beautifully twisted video from Fenia Kotsopoulou featuring music from Room of Wires"
+    },
+    {
+      "link": "https://genetictrance.bandcamp.com/album/olympic-moment",
+      "image": "images/Genetic-Trance.png",
+      "copy": "New Depths features on Genetic Trance compilation"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/temple-run",
+      "image": "images/Room-of-Wires_Temple-Run.jpg",
+      "copy": "Temple Run from the Black Medicine EP on Section27"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/night-ryde",
+      "image": "images/night_ryde.jpg",
+      "copy": "Night Ryde 'A dark journey through the ghetto'"
+    },
+    {
+      "link": "https://vimeo.com/album/4690100",
+      "image": "images/seven_sins.jpg",
+      "copy": "Audio for the Seven Sins web series starring Bryan Vanzant"
+    },
+    {
+      "link": "https://monolithcocktail.com/2017/07/28/tickling-our-fancy-052-john-sinclair-chuck-room-of-wires/",
+      "image": "images/monolithcocktail.jpg",
+      "copy": "Monolith Cocktail features the Black Medicine EP, read the review"
+    },
+    {
+      "link": "https://open.spotify.com/artist/0gLl9cMxmp8sJjxPJSt8Ep",
+      "image": "images/RoW_Spotify.png",
+      "copy": "The back catalogue is now available on Spotify"
+    },
+    {
+      "link": "http://igloomag.com/reviews/room-of-wires-mastakink",
+      "image": "images/Igloo_review_Mastakink.png",
+      "copy": "Mastakink review 'The title track busts through a darkened industrial-electro veil'"
+    },
+    {
+      "link": "https://www.mixcloud.com/andrewandrews9003888/cv-out-4/",
+      "image": "images/CV_OUT_4.png",
+      "copy": "CV OUT 4 - from Bola, Cortini to Voltaire... 'maaaassive elktromix. Thanks'"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/mastakink",
+      "image": "images/Mastakink_cut.jpg",
+      "copy": "New single Mastakink, with remixes from MTCH, Valance Drake, Wolf Asylum"
+    },
+    {
+      "link": "http://tidal.com/album/75031880",
+      "image": "images/tidal.jpg",
+      "copy": "Hear the Black Medicine in high fidelity, now on Tidal"
+    },
+    {
+      "link": "https://patches.zone/isolation-collaboration-room-of-wires",
+      "image": "images/patches_zone.jpg",
+      "copy": "The inside story of Room of Wires 'Isolation and Collaboration'"
+    },
+    {
+      "link": "https://igloomag.com/reviews/in-rotation-multi-view-june-2017",
+      "image": "images/igloo_black.jpg",
+      "copy": "'Their love for electronic music and its breaking points are evident (again)' - Black Medicine EP review"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/black-medicine",
+      "image": "images/black_medicine.jpg",
+      "copy": "Black Medicine EP - 5 new tracks out on Section27"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/sectioned-v60",
+      "image": "images/sectioned-v60.jpg",
+      "copy": "Special remix of Snowbound features on Sectioned 006 Compilation"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/used-darker",
+      "image": "images/Darker_remix.jpg",
+      "copy": "Used [Darker] remix by M Ward"
+    },
+    {
+      "link": "https://www.mixcloud.com/electronictransmissions/electronic-transmissions-presents-room-of-wires-the-re-fill/",
+      "image": "images/ElectronicTransmissions.jpg",
+      "copy": "Electronic Transmissions - Room of Wires Refill show. 'A 1-hour show full of dark glitchy electronica'"
+    },
+    {
+      "link": "https://touched.bandcamp.com/album/touched-3",
+      "image": "images/touched-3.jpg",
+      "copy": "Bite marks - Sat alongside 400 great electronic artists doing their bit to crack cancer"
+    },
+    {
+      "link": "https://youtu.be/g1UmwRmTvRs",
+      "image": "images/cherno.jpg",
+      "copy": "Chern O video/audio collaboration by Cesar Naves and Room of Wires"
+    },
+    {
+      "link": "https://youtu.be/UMV783fWW44",
+      "image": "images/scarce_vid.jpg",
+      "copy": "Scarce video from the EP Used as a Runner on Section27"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/used-as-a-runner",
+      "image": "images/RoW_used_as_a_runner.jpg",
+      "copy": "Used as a Runner - 5 track EP out on Section27"
+    },
+    {
+      "link": "https://kaer-uiks.bandcamp.com/album/black-box-n",
+      "image": "images/black-box-n_box.jpg",
+      "copy": "Fluxx (Room of Wires remix) for Black Box N compilation on Kaer'Uiks"
+    },
+    {
+      "link": "https://youtu.be/hliB7F6ftyc",
+      "image": "images/pentatonik_vid.jpg",
+      "copy": "Ray of Light - Pentatonik (R. Simeon Bowring) Room of Wires remix - Taken From Touched Two (The Remixes)"
+    },
+    {
+      "link": "http://www.imdb.com/title/tt4332814/",
+      "image": "images/Versus_film.png",
+      "copy": "Music for Versus - a short thriller directed by Paul Johnstone, starring Ray Vincent"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/dead-skins-ep",
+      "image": "images/dead-skins-ep.jpg",
+      "copy": "Self released 5 track EP entitled Dead Skins includes bonus track on download"
+    },
+    {
+      "link": "https://soundcloud.com/roomofwires/ultradiversion-weldroid-remix",
+      "image": "imgages/ultradiversion-weldroid-remix.jpg",
+      "copy": "Weldroid rips into the Room of Wires, listen to Ultradiversion"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/merch/room-of-wires-logo-t-shirt",
+      "image": "images/First-sight.jpg",
+      "copy": "Just a few of the original RoW T-shirts left in stock and now only £6 each - buy"
+    },
+    {
+      "link": "https://youtu.be/hqqcE6AOo-w",
+      "image": "images/isoforms.jpg",
+      "copy": "Isoforms remix on Iso:Reform on Section27"
+    },
+    {
+      "link": "http://www.traxsource.com/title/517621/best-of-touched-pt-1",
+      "image": "images/best-of-touched-pt-1.jpg",
+      "copy": "Sitting alongside B12 and Plaid - Walkern remix features in the best of Touched"
+    },
+    {
+      "link": "https://www.mixcloud.com/andrewandrews9003888/cv_out________1/",
+      "image": "images/CV-OUT-2.jpg",
+      "copy": "CV OUT - An eclectic electronic session with live modular stuff, classic electronica and bleeps from the future"
+    },
+    {
+      "link": "https://soundcloud.com/deep_electronic/05-room-of-wires-walkern",
+      "image": "images/room-of-wires-walkern.jpg",
+      "copy": "Special remix of Walkern features on Deep Electronics Compilation"
+    },
+    {
+      "link": "http://igloomag.com/features/best-of-2014",
+      "image": "images/igloomag-best-of-2014.jpg",
+      "copy": "Asylum Sneaker EP features in Igloo's Best of 2014 list 'some of the finest in an expansive array of music'"
+    },
+    {
+      "link": "https://youtu.be/KPMfBOeYsOg",
+      "image": "images/Asylum-Sneaker-Video.jpg",
+      "copy": "Asylum Sneaker video by Cesar Naves"
+    },
+    {
+      "link": "http://mixtura.org",
+      "image": "images/Mixtura_front_page.png",
+      "copy": "Room of Wires featured on mixtura.org"
+    },
+    {
+      "link": "https://www.imdb.com/title/tt2017583/",
+      "image": "images/shifter_movie.png",
+      "copy": "Film score for Shifter - a short action horror, directed by Ben Parker"
+    },
+    {
+      "link": "https://www.mixcloud.com/Klankschap/klankblurb-xxii-guestmix-by-oberman-knocks/",
+      "image": "images/oberman-knocks.jpg",
+      "copy": "Guest mix by Oberman Knocks features Room of Wires. 'If eclectimentalism and wacky beats are your thing, than you're in for a real treat'"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/asylum-sneaker",
+      "image": "images/Room-of-Wires_Asylum-Sneaker.jpg",
+      "copy": "The beginning... the first release on Section27 - Asylum Sneaker 5 track EP [S27-133]"
+    },
+    {
+      "link": "https://www.mixcloud.com/andrewandrews9003888/updigital-room-of-wires-special-0514/",
+      "image": "images/updigital-0514.jpg",
+      "copy": "Peaking at number 17 in the Mixcloud Electronica chart: The UpDigital Room of Wires special"
+    },
+    {
+      "link": "https://soundcloud.com/the-black-dog/radio-dogma-04",
+      "image": "images/radio-dogma-04.jpg",
+      "copy": "The first public airing of Room of Wires and a classic set too"
     }
   ]
 }
