@@ -18,9 +18,7 @@ import posts from "../data/posts.json";
           title="FRAGILE MELODIC MOMENTS"
           tagline="Room of Wires have never met - together they create uneasy electronic music"
         />
-        <div
-          class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 mx-auto"
-        >
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
           {
             posts.posts.map(({ link, image, copy }) => (
               <Card link={link} copy={copy} image={image} />
