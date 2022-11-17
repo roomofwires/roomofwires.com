@@ -22,7 +22,7 @@ import posts from "../data/posts.json";
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
           {
             posts.posts.map(({ link, image, copy }) => (
-              <Card link={link} copy={copy} image={image} />
+              <Card link={link} image={image} copy={copy} />
             ))
           }
         </div>
