@@ -2,7 +2,7 @@
 const { location } = Astro.props;
 ---
 
-<a href="/" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="/" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "latest" ? (
       <p class="text-gray-100">Latest</p>
@@ -11,7 +11,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="/archive" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="/archive" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "archive" ? (
       <p class="text-gray-100">Archive</p>
@@ -20,7 +20,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="/inside" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="/inside" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "inside" ? (
       <p class="text-gray-100">Inside</p>
@@ -29,7 +29,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="/releases" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="/releases" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "releases" ? (
       <p class="text-gray-100">Releases</p>
@@ -38,7 +38,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="/projects" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="/projects" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "projects" ? (
       <p class="text-gray-100">Projects</p>
@@ -47,7 +47,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="#responsive-header" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "listen" ? (
       <p class="text-gray-100">Listen</p>
@@ -56,7 +56,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 ml-4">
+<a href="#responsive-header" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "social" ? (
       <p class="text-gray-100">Social</p>
