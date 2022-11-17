@@ -4,13 +4,13 @@ import Menu from "../components/Menu.astro";
 const { location } = Astro.props;
 ---
 
-<nav class="fixed w-full z-10 top-0 text-white">
-  <div class="bg-gray-900 py-4">
+<nav class="fixed w-full z-10 top-0">
+  <div class="bg-gray-900 py-4 h-15">
     <div
       class="container flex justify-between mx-auto px-4 max-w-md lg:max-w-4xl md:max-w-2xl text-s"
     >
       <div class="items-center flex-shrink-0 mr-6">
-        <img class="h-5 mt-1" src="/images/menu-logo.png" />
+        <img class="h-5 mt-0.5" src="/images/menu-logo.png" />
       </div>
       <div class="hidden lg:flex brutal mt-1">
         <Menu location={location} />
