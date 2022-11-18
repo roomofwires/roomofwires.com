@@ -1,0 +1,48 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Navigation from "../components/Navigation.astro";
+import Masthead from "../components/Masthead.astro";
+import Card from "../components/Card.astro";
+import Footer from "../components/Footer.astro";
+
+import projects from "../data/projects.json";
+---
+
+<Layout title="Room of Wires">
+  <main>
+    <div class="bg-camo">
+      <Navigation location="latest" />
+      <div
+        class="container pt-[72px] px-4 mx-auto max-w-md lg:max-w-4xl md:max-w-2xl"
+      >
+        <Masthead
+          title="PROJECTS & COLLABORATIONS"
+          tagline="New ideas, new ways of working"
+        />
+        <div
+          class="relative h-80 px-4 mb-4 text-left text-sand brutal bg-[url('/images/grey_yellow_angle.png')] bg-cover"
+        >
+          <div class="absolute bottom-4">
+            <p class="text-xs">
+              Working with others is a big part of our style, bringing out new
+              ideas and new ways of working. We've worked together with many
+              inspiring artists from videographers and filmmakers, right through
+              to synth legends. Whether its remixing, film scores, performance
+              art installations, or full-on collaborations, we're always on the
+              look out.
+            </p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
+          {
+            projects.projects.map(
+              ({ link, image, copy }, index) =>
+                index < 12 && <Card link={link} image={image} copy={copy} />
+            )
+          }
+        </div>
+      </div>
+    </div>
+    <Footer />
+  </main>
+</Layout>
