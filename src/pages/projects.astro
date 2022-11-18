@@ -20,9 +20,9 @@ import projects from "../data/projects.json";
           tagline="New ideas, new ways of working"
         />
         <div
-          class="relative h-80 px-4 mb-4 text-left text-sand brutal bg-[url('/images/grey_yellow_angle.png')] bg-cover"
+          class="relative h-40 px-4 mb-4 text-left text-sand bg-[url('/images/grey_yellow_angle.png')] bg-cover bg-no-repeat bg-right"
         >
-          <div class="absolute bottom-4">
+          <div class="absolute bottom-4 md:w-3/4">
             <p class="text-xs">
               Working with others is a big part of our style, bringing out new
               ideas and new ways of working. We've worked together with many
@@ -35,10 +35,9 @@ import projects from "../data/projects.json";
         </div>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-2">
           {
-            projects.projects.map(
-              ({ link, image, copy }, index) =>
-                index < 12 && <Card link={link} image={image} copy={copy} />
-            )
+            projects.projects.map(({ image, copy }, index) => (
+              <Card image={image} copy={copy} />
+            ))
           }
         </div>
       </div>
