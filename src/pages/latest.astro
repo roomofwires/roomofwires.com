@@ -1,0 +1,34 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Navigation from "../components/Navigation.astro";
+import Masthead from "../components/Masthead.astro";
+import Card from "../components/Card.astro";
+import Footer from "../components/Footer.astro";
+
+import posts from "../data/posts.json";
+---
+
+<Layout title="Room of Wires">
+  <main>
+    <div class="bg-camo">
+      <Navigation location="latest" />
+      <div
+        class="container pt-[72px] px-4 mx-auto max-w-md lg:max-w-4xl md:max-w-2xl"
+      >
+        <Masthead
+          title="FRAGILE MELODIC MOMENTS"
+          tagline="Room of Wires have never met - together they create uneasy electronic music"
+        />
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
+          {
+            posts.posts.map(
+              ({ link, image, copy }, index) =>
+                index < 12 && <Card link={link} image={image} copy={copy} />
+            )
+          }
+        </div>
+      </div>
+    </div>
+    <Footer />
+  </main>
+</Layout>
