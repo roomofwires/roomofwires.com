@@ -47,7 +47,7 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="#responsive-header" class="block lg:inline-block lg:mt-0 ml-4">
+<a href="#" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "listen" ? (
       <p class="text-gray-100">Listen</p>
@@ -56,12 +56,32 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="#responsive-header" class="block lg:inline-block lg:mt-0 ml-4">
-  {
-    location == "social" ? (
-      <p class="text-gray-100">Social</p>
-    ) : (
-      <p class="text-gray-400 hover:text-gray-100">Social</p>
-    )
-  }
-</a>
+<div class="flex" x-data="{ open: false }">
+  <a
+    href="#"
+    class="block lg:inline-block lg:mt-0 ml-4"
+    x-on:click="open = ! open"
+  >
+    {
+      location == "social" ? (
+        <p class="text-gray-100">Social</p>
+      ) : (
+        <p class="text-gray-400 hover:text-gray-100">Social</p>
+      )
+    }
+  </a>
+  <div class="relative">
+    <div
+      class="absolute right-14 -top-4 lg:-right-2 lg:top-12 px-4 p-4 space-y-1.5 brutal text-right bg-gray-900 z-10"
+      x-show="open"
+      x-transition
+    >
+      <a href="#" class="block ml-4 text-gray-400 hover:text-gray-100"
+        >Discord</a
+      >
+      <a href="#" class="block ml-4 text-gray-400 hover:text-gray-100"
+        >Mailing List</a
+      >
+    </div>
+  </div>
+</div>
