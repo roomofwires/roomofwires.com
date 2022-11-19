@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://soundcloud.com/roomofwires/early-stage-mutation",
+      "image": "/images/Early_stage_mutation.png",
+      "copy": "Here's the all new Early Stage Mutations track, up on Soundcloud"
+    },
+    {
       "link": "https://ping-discs.bandcamp.com/album/the-vinyl-loop",
       "image": "/images/vinyl_loop.jpg",
       "copy": "Our remix of Paperboard Sun appears on the album The Vinyl Loop by 4T Thieves"
