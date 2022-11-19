@@ -56,19 +56,13 @@ const { location } = Astro.props;
     )
   }
 </a>
-<div class="flex" x-data="{ open: false }">
+<div x-data="{ open: false }">
   <a
     href="#"
     class="block lg:inline-block lg:mt-0 ml-4"
     x-on:click="open = ! open"
   >
-    {
-      location == "social" ? (
-        <p class="text-gray-100">Social</p>
-      ) : (
-        <p class="text-gray-400 hover:text-gray-100">Social</p>
-      )
-    }
+    <p class="text-gray-400 hover:text-gray-100">Social</p>
   </a>
   <div class="relative">
     <div
