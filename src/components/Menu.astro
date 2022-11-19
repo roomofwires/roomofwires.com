@@ -11,15 +11,6 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="/archive" class="block lg:inline-block lg:mt-0 ml-4">
-  {
-    location == "archive" ? (
-      <p class="text-gray-100">Archive</p>
-    ) : (
-      <p class="text-gray-400 hover:text-gray-100">Archive</p>
-    )
-  }
-</a>
 <a href="/inside" class="block lg:inline-block lg:mt-0 ml-4">
   {
     location == "inside" ? (
@@ -70,11 +61,40 @@ const { location } = Astro.props;
       x-show="open"
       x-transition
     >
-      <a href="#" class="block ml-4 text-gray-400 hover:text-gray-100"
-        >Discord</a
+      <a
+        href="https://discord.gg/3UZd5UZzqg"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Discord</a
       >
-      <a href="#" class="block ml-4 text-gray-400 hover:text-gray-100"
-        >Mailing List</a
+      <a
+        href="https://www.youtube.com/@roomofwires"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">YouTube</a
+      >
+      <a
+        href="https://facebook.com/roomofwires"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Facebook</a
+      >
+      <a
+        href="https://twitter.com/roomofwires"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Twitter</a
+      >
+      <a
+        href="https://soundcloud.com/roomofwires"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Soundcloud</a
+      >
+      <a
+        href="https://www.modulargrid.net/e/racks/command_center/155739"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">ModularGrid</a
+      >
+      <a
+        href="https://github.com/roomofwires"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">GitHub</a
       >
     </div>
   </div>
