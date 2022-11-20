@@ -9,8 +9,16 @@ const { link, image, copy } = Astro.props;
     <div class="aspect-w-1 aspect-h-1">
       <img src={image} class="object-cover" />
     </div>
-    <div class="flex p-2 h-24 text-center aspect-none">
-      <p class="my-auto mx-auto text-xs text-sand">{copy}</p>
-    </div>
+    {
+      link ? (
+        <div class="flex p-2 h-24 text-center aspect-none">
+          <p class="my-auto mx-auto text-xs text-sand">{copy}</p>
+        </div>
+      ) : (
+        <div class="flex p-2 h-32 text-center aspect-none">
+          <p class="my-auto mx-auto text-xs text-sand">{copy}</p>
+        </div>
+      )
+    }
   </a>
 </div>
