@@ -47,15 +47,72 @@ const { location } = Astro.props;
     )
   }
 </a>
-<a href="#" class="block lg:inline-block lg:mt-0 ml-4">
-  {
-    location == "listen" ? (
-      <p class="text-gray-100">Listen</p>
-    ) : (
-      <p class="text-gray-400 hover:text-gray-100">Listen</p>
-    )
-  }
-</a>
+<div x-data="{ open: false }">
+  <a
+    href="#"
+    class="block lg:inline-block lg:mt-0 ml-4"
+    x-on:click="open = ! open"
+  >
+    <p class="text-gray-400 hover:text-gray-100">Listen</p>
+  </a>
+  <div class="relative">
+    <div
+      class="absolute right-14 -top-4 lg:-right-2 lg:top-6 px-4 p-4 space-y-1.5 brutal text-right bg-gray-900 z-10"
+      x-show="open"
+      x-transition
+    >
+      <p class="block ml-4 text-gray-600 hover:text-gray-100">Albums</p>
+      <a
+        href="https://ant-zen.bandcamp.com/album/plague-of-people"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Plague of People</a
+      >
+      <a
+        href="https://roomofwires.bandcamp.com/album/test-subject"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Test Subject</a
+      >
+      <a
+        href="https://roomofwires.bandcamp.com/album/white-transit"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">White Transit</a
+      >
+      <p class="block ml-4 text-gray-600 hover:text-gray-100">EPs</p>
+      <a
+        href="https://rednetic.bandcamp.com/album/fever-switch"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Fever Switch</a
+      >
+      <a
+        href="https://roomofwires.bandcamp.com/album/mastakink"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Mastakink</a
+      >
+      <a
+        href="https://roomofwires.bandcamp.com/album/black-medicine"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Black Medicine</a
+      >
+      <a
+        href="https://roomofwires.bandcamp.com/album/used-as-a-runner"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Used as a Runner</a
+      >
+
+      <a
+        href="https://roomofwires.bandcamp.com/album/dead-skins"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Dead Skins</a
+      >
+      <a
+        href="https://roomofwires.bandcamp.com/album/asylum-sneaker"
+        target="_blank"
+        class="block ml-4 text-gray-400 hover:text-gray-100">Asylum Sneaker</a
+      >
+    </div>
+  </div>
+</div>
+
 <div x-data="{ open: false }">
   <a
     href="#"
