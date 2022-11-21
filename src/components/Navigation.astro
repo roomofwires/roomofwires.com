@@ -26,6 +26,7 @@ const { location } = Astro.props;
             class="absolute -right-2 top-12 px-4 p-4 space-y-1.5 brutal text-right bg-gray-900 z-10"
             x-show="open"
             x-transition
+            @click.outside="open = false"
           >
             <Menu location={location} />
           </div>
