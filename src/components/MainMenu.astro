@@ -1,0 +1,55 @@
+---
+import ListenMenu from "../components/ListenMenu.astro";
+import SocialMenu from "../components/SocialMenu.astro";
+
+const { location } = Astro.props;
+---
+
+<a href="/latest" class="block lg:inline-block lg:mt-0 ml-4">
+  {
+    location == "latest" ? (
+      <p class="text-gray-100">Latest</p>
+    ) : (
+      <p class="text-gray-400 hover:text-gray-100">Latest</p>
+    )
+  }
+</a>
+<a href="/archive" class="block lg:inline-block lg:mt-0 ml-4">
+  {
+    location == "archive" ? (
+      <p class="text-gray-100">Archive</p>
+    ) : (
+      <p class="text-gray-400 hover:text-gray-100">Archive</p>
+    )
+  }
+</a>
+<a href="/inside" class="block lg:inline-block lg:mt-0 ml-4">
+  {
+    location == "inside" ? (
+      <p class="text-gray-100">Inside</p>
+    ) : (
+      <p class="text-gray-400 hover:text-gray-100">Inside</p>
+    )
+  }
+</a>
+<a href="/releases" class="block lg:inline-block lg:mt-0 ml-4">
+  {
+    location == "releases" ? (
+      <p class="text-gray-100">Releases</p>
+    ) : (
+      <p class="text-gray-400 hover:text-gray-100">Releases</p>
+    )
+  }
+</a>
+<a href="/projects" class="block lg:inline-block lg:mt-0 ml-4">
+  {
+    location == "projects" ? (
+      <p class="text-gray-100">Projects</p>
+    ) : (
+      <p class="text-gray-400 hover:text-gray-100">Projects</p>
+    )
+  }
+</a>
+
+<ListenMenu />
+<SocialMenu />

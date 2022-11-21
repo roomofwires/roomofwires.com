@@ -1,5 +1,5 @@
 ---
-import Menu from "../components/Menu.astro";
+import MainMenu from "../components/MainMenu.astro";
 
 const { location } = Astro.props;
 ---
@@ -13,7 +13,7 @@ const { location } = Astro.props;
         <a href="/latest"><img class="h-5" src="/images/menu-logo.png" /></a>
       </div>
       <div class="hidden lg:flex brutal">
-        <Menu location={location} />
+        <MainMenu location={location} />
       </div>
       <div class="flex lg:hidden" x-data="{ open: false }">
         <div class="space-y-1.5" x-on:click="open = ! open">
@@ -28,7 +28,7 @@ const { location } = Astro.props;
             x-transition
             @click.outside="open = false"
           >
-            <Menu location={location} />
+            <MainMenu location={location} />
           </div>
         </div>
       </div>
