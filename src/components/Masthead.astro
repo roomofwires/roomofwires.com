@@ -3,10 +3,10 @@ const { title, tagline } = Astro.props;
 ---
 
 <div
-  class="relative h-80 px-4 mb-4 text-left text-gold brutal bg-[url('/images/masthead-movie.gif')] bg-cover"
+  class="relative h-80 px-4 mb-4 text-left brutal bg-[url('/images/masthead-movie.gif')] bg-cover"
 >
   <div class="absolute bottom-4">
-    <h1 class="text-3xl">{title}</h1>
-    <p>{tagline}</p>
+    <h1 class="text-3xl text-gold">{title}</h1>
+    <p class="text-sand">{tagline}</p>
   </div>
 </div>
