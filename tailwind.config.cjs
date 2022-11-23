@@ -7,6 +7,7 @@ module.exports = {
         gold: "#fdd835",
         camo: "#4c4a3d",
         sand: "#908d77",
+        coal: "#1b1b19",
       },
     },
   },
