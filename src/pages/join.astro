@@ -2,13 +2,6 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<!-- Mailchimp core CSS -->
-<link
-  href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css"
-  rel="stylesheet"
-  type="text/css"
-/>
-
 <Layout title="Room of Wires">
   <main>
     <div
@@ -17,9 +10,32 @@ import Layout from "../layouts/Layout.astro";
       <div class="h-full flex items-center justify-center text-gold brutal">
         <div class="text-center mx-12">
           <!-- Begin Mailchimp Signup Form -->
+          <link
+            href="//cdn-images.mailchimp.com/embedcode/classic-071822.css"
+            rel="stylesheet"
+            type="text/css"
+          />
+          <style type="text/css">
+            #mc_embed_signup {
+              background: rgba(24, 24, 22, 0.6);
+              clear: left;
+              width: 356px;
+              padding: 12px;
+            }
+            #mc_embed_signup input.button {
+              background-color: #fdd835;
+              color: #181816;
+              margin-top: 16px;
+            }
+            #mc_embed_signup input {
+              background-color: #25241f;
+              color: #fdd835;
+              border: 2px solid #4c4a3d;
+            }
+          </style>
           <div id="mc_embed_signup">
             <form
-              action="https://roomofwires.us1.list-manage.com/subscribe/post?u=23110253a735687574ebaef2e&id=2eb2e5fe03"
+              action="https://roomofwires.us1.list-manage.com/subscribe/post?u=23110253a735687574ebaef2e&id=2eb2e5fe03&f_id=00397de2f0"
               method="post"
               id="mc-embedded-subscribe-form"
               name="mc-embedded-subscribe-form"
@@ -34,32 +50,33 @@ import Layout from "../layouts/Layout.astro";
                   releases
                 </p>
                 <div class="mc-field-group">
-                  <label for="mce-EMAIL">Email Address:-</label>
+                  <label for="mce-EMAIL">Email Address</label>
                   <input
                     type="email"
                     value=""
                     name="EMAIL"
                     class="required email"
                     id="mce-EMAIL"
+                    required
                   />
                 </div>
-                <div id="mce-responses" class="clear">
+                <div id="mce-responses" class="clear foot">
                   <div
                     class="response"
                     id="mce-error-response"
-                    style="display: none"
+                    style="display:none"
                   >
                   </div>
                   <div
                     class="response"
                     id="mce-success-response"
-                    style="display: none"
+                    style="display:none"
                   >
                   </div>
                 </div>
                 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                 <div
-                  style="position: absolute; left: -5000px"
+                  style="position: absolute; left: -5000px;"
                   aria-hidden="true"
                 >
                   <input
@@ -69,14 +86,16 @@ import Layout from "../layouts/Layout.astro";
                     value=""
                   />
                 </div>
-                <div class="clear">
-                  <input
-                    type="submit"
-                    value="Subscribe"
-                    name="subscribe"
-                    id="mc-embedded-subscribe"
-                    class="button"
-                  />
+                <div class="optionalParent">
+                  <div class="clear foot">
+                    <input
+                      type="submit"
+                      value="Subscribe"
+                      name="subscribe"
+                      id="mc-embedded-subscribe"
+                      class="button"
+                    />
+                  </div>
                 </div>
               </div>
             </form>
@@ -84,8 +103,7 @@ import Layout from "../layouts/Layout.astro";
           <script
             type="text/javascript"
             src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"
-          ></script>
-          <script type="text/javascript">
+          ></script><script type="text/javascript">
             (function ($) {
               window.fnames = new Array();
               window.ftypes = new Array();
@@ -105,6 +123,7 @@ import Layout from "../layouts/Layout.astro";
             var $mcj = jQuery.noConflict(true);
           </script>
           <!--End mc_embed_signup-->
+
           <p class="pt-4">
             <a href="/latest">[ go to main page ]</a>
           </p>
@@ -113,24 +132,3 @@ import Layout from "../layouts/Layout.astro";
     </div>
   </main>
 </Layout>
-
-<style>
-  #mc_embed_signup {
-    background: rgba(24, 24, 22, 0.6);
-    clear: left;
-    width: 356px;
-    padding: 12px;
-  }
-
-  #mc_embed_signup input.button {
-    background-color: #fdd835;
-    color: #181816;
-    margin-top: 16px;
-  }
-
-  #mc_embed_signup input {
-    background-color: #25241f;
-    color: #fdd835;
-    border: 2px solid #4c4a3d;
-  }
-</style>
