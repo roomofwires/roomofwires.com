@@ -132,7 +132,7 @@
     },
     {
       "link": "https://youtu.be/g1UmwRmTvRs",
-      "images": "/images/cherno.jpg",
+      "image": "/images/cherno.jpg",
       "copy": "Chern O - Video/audio collaboration with Cesar Naves (Self released May 2017)"
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "link": "https://section27.bandcamp.com/album/asylum-sneaker",
-      "images": "/images/Room-of-Wires_Asylum-Sneaker.jpg",
+      "image": "/images/Room-of-Wires_Asylum-Sneaker.jpg",
       "copy": "Asylum Sneaker - 5 track debut EP on Section27 (Section27 Cat no. [S27-134] Aug 2014)"
     }
   ]
