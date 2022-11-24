@@ -1,13 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.13478,0,0,1.14542,-4.85209,-5.23512)">
+        <rect x="4.276" y="4.57" width="31.724" height="31.43"/>
+    </g>
+    <g id="path24" transform="matrix(0.0157065,0,0,0.0157065,-5.54441,-4.36583)">
+        <path d="M353,1584L353,1268L833.224,1268L866.191,1283.5L899.159,1299L901,1299L901,1268L1472,1268L1472,1299L1473.74,1299L1510.98,1281.48L1548.23,1263.96L1773.73,1370.06L1999.23,1476.15L2000.61,1476.68L2002,1477.21L2002,1268L2051.68,1268L2152.59,1315.6L2253.5,1363.21L2255.24,1363.72L2256.98,1364.23L2257.24,1316.36L2257.5,1268.5L2307.5,1267.98L2644.5,1426.59L2644.77,1449.3L2645.04,1472L2546.36,1472L2443.43,1423.56L2340.5,1375.12L2339.98,1472L2290.35,1472L2189.42,1424.47L2088.5,1376.94L2086.25,1376.36L2084,1375.78L2084,1584L2033.66,1584L1791.38,1470L1549.11,1356L1547.26,1356L1468.88,1392.88L1390.5,1429.76L1389.89,1404.63L1389.28,1379.5L1389.14,1365.25L1389,1351L983.023,1351L982.761,1390.41L982.5,1429.82L898.74,1390.41L814.98,1351L436,1351L436,1584L353,1584Z" style="fill:rgb(255,209,0);fill-rule:nonzero;"/>
+    </g>
 </svg>
