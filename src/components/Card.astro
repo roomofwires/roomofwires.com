@@ -10,7 +10,7 @@ const { link, image, copy } = Astro.props;
           <img src={image} class="object-cover" />
         </div>
         <div class="flex p-2 h-24 text-center aspect-none">
-          <p class="my-auto mx-auto text-sm text-sand acumin">{copy}</p>
+          <p class="my-auto mx-auto text-xs text-sand acumin">{copy}</p>
         </div>
       </a>
     ) : (
@@ -19,7 +19,7 @@ const { link, image, copy } = Astro.props;
           <img src={image} class="object-cover" />
         </div>
         <div class="flex p-2 h-36 lg:h-24 text-center aspect-none">
-          <p class="my-auto mx-auto px-8 text-sm text-sand acumin">{copy}</p>
+          <p class="my-auto mx-auto px-8 text-xs text-sand acumin">{copy}</p>
         </div>
       </div>
     )
