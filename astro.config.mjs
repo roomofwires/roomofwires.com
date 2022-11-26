@@ -7,6 +7,10 @@ import tailwind from "@astrojs/tailwind";
 import alpinejs from "@astrojs/alpinejs";
 
 // https://astro.build/config
+import sitemap from "@astrojs/sitemap";
+
+// https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), alpinejs()],
+  site: "https://roomofwires.com",
+  integrations: [tailwind(), alpinejs(), sitemap()],
 });
