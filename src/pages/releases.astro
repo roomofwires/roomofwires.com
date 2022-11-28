@@ -10,7 +10,9 @@ import releases from "../data/releases.json";
 
 <Layout title="Room of Wires">
   <main>
-    <div class="bg-camo">
+    <div
+      class="bg-camo bg-[url('/images/Background.png')] bg-cover bg-no-repeat"
+    >
       <NavBar location="releases" />
       <div
         class="container pt-[72px] px-4 mx-auto max-w-md lg:max-w-6xl md:max-w-3xl"
@@ -26,8 +28,8 @@ import releases from "../data/releases.json";
             ))
           }
         </div>
+        <Footer />
       </div>
     </div>
-    <Footer />
   </main>
 </Layout>

@@ -25,24 +25,12 @@ import posts from "../data/posts.json";
           {
             posts.posts.map(
               ({ link, image, copy }, index) =>
-                index < 12 && <Card link={link} image={image} copy={copy} />
+                index < 16 && <Card link={link} image={image} copy={copy} />
             )
           }
         </div>
-        <div class="container py-3">
-          <p class="text-xl text-gold brutal space-x-4">
-            <a href="/archive">ARCHIVE &gt;</a>
-            <a href="/inside">INSIDE &gt;</a>
-          </p>
-        </div>
+        <Footer />
       </div>
-      <footer class="py-3">
-        <div class="container mx-auto">
-          <p class="m-0 text-center text-xs acumin text-sand">
-            Copyright &copy; Room of Wires 2013-2022
-          </p>
-        </div>
-      </footer>
     </div>
   </main>
 </Layout>
