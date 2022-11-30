@@ -1,6 +1,10 @@
+---
+const { links } = Astro.props;
+---
+
 <footer class="container py-3">
   <p class="text-xl text-gold brutal space-x-4">
-    <a href="/archive">ARCHIVE &gt;</a>
-    <a href="/inside">INSIDE &gt;</a>
+    <a href={links[0]}>{links[0].toUpperCase()} &gt;</a>
+    <a href={links[0]}>{links[1].toUpperCase()} &gt;</a>
   </p>
 </footer>
