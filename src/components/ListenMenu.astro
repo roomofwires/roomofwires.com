@@ -13,6 +13,7 @@ const { location } = Astro.props;
   <div class="relative">
     <div
       class="absolute w-48 right-14 -top-4 lg:-right-2 lg:top-6 px-4 p-4 space-y-1.5 brutal text-right bg-coal z-10"
+      x-cloak
       x-show="open"
       x-transition
       @click.outside="open = false"
