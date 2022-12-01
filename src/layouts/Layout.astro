@@ -9,6 +9,22 @@ const { title } = Astro.props;
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-53615823-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-53615823-1");
+      gtag("config", "G-RDB2JCM2QX");
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
