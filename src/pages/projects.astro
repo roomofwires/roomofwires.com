@@ -21,11 +21,10 @@ import projects from "../data/projects.json";
           title="PROJECTS & COLLABORATIONS"
           tagline="New ideas, new ways of working"
         />
-        <div
-          class="relative h-64 lg:h-48 mb-4 text-left text-sand bg-[url('/images/grey_yellow_angle.png')] bg-cover bg-no-repeat bg-right"
-        >
-          <div class="absolute bottom-4 md:w-[85%]">
-            <p class="acumin text-md px-8">
+
+        <div class="bg-coal mb-4 acumin text-sand text-md leading-relaxed">
+          <div class="p-8 w-[85%]">
+            <p>
               Working with others is a big part of our style, bringing out new
               ideas and new ways of working. We've worked together with many
               inspiring artists from videographers and filmmakers, right through
@@ -35,6 +34,7 @@ import projects from "../data/projects.json";
             </p>
           </div>
         </div>
+
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
           {
             projects.projects.map(({ image, copy }, index) => (
