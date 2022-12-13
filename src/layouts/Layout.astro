@@ -27,30 +27,10 @@ const { title } = Astro.props;
 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta property="og:title" content={title} />
-    <meta name="twitter:title" content={title} />
     <meta
       name="description"
       content="Room of Wires have never met. Together they create uneasy electronic music."
     />
-    <meta
-      name="twitter:description"
-      content="Room of Wires have never met. Together they create uneasy electronic music."
-    />
-    <meta
-      property="og:description"
-      content="Room of Wires have never met. Together they create uneasy electronic music."
-    />
-    <meta
-      property="og:image"
-      content="https://roomofwires.com/images/jumbo06.jpg"
-    />
-    <meta
-      name="twitter:image"
-      content="https://roomofwires.com/images/jumbo06.jpg"
-    />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://roomofwires.com" />
     <meta
       name="keywords"
       content="electronic music, electronica, dark ambient, techno"
@@ -58,6 +38,21 @@ const { title } = Astro.props;
     <meta name="author" content="Room of Wires" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
+
+    <meta property="og:title" content="Room of Wires" />
+    <meta
+      property="og:description"
+      content="Room of Wires have never met. Together they create uneasy electronic music."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://roomofwires.com/images/summary_large_image.jpg"
+    />
+    <meta property="og:url" content="/" />
+    <meta property="og:site_name" content="Room of Wires" />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <title>{title}</title>
   </head>
   <body class="bg-coal">
