@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-iii",
+      "image": "/images/mad_iii.jpg",
+      "copy": "Brand new track Endo Fall appears on the massive 103 track compilation from M.A.D. III"
+    },
+    {
       "link": "https://kahvicollective.bandcamp.com/album/afterthoughts",
       "image": "/images/afterthoughts_va.jpg",
       "copy": "Our first proper collab with 4T Thieves appears on the Kahvi Collective compilation Afterthoughts"
