@@ -23,8 +23,8 @@ import releases from "../data/releases.json";
         />
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
           {
-            releases.releases.map(({ link, image, copy }) => (
-              <Card link={link} image={image} copy={copy} />
+            releases.releases.map(({ link, image, copy, info }) => (
+              <Card link={link} image={image} copy={copy} info={info} />
             ))
           }
         </div>

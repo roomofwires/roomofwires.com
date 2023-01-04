@@ -1,5 +1,5 @@
 ---
-const { link, image, copy } = Astro.props;
+const { link, image, copy, info } = Astro.props;
 ---
 
 <div class="mx-auto bg-coal w-full">
@@ -10,7 +10,12 @@ const { link, image, copy } = Astro.props;
           <img src={image} class="object-cover hover:animate-pulse" />
         </div>
         <div class="flex p-2 h-24 w-[80%] text-left aspect-none">
-          <p class="mx-auto text-xs text-sand acumin">{copy}</p>
+          <div class="mx-auto">
+            <p class="text-xs text-sand acumin">{copy}</p>
+            <p class="text-xs text-sand acumin">
+              <em>{info}</em>
+            </p>
+          </div>
         </div>
       </a>
     ) : (
@@ -19,7 +24,9 @@ const { link, image, copy } = Astro.props;
           <img src={image} class="object-cover" />
         </div>
         <div class="flex p-2 h-36 lg:h-24 w-[80%] text-left aspect-none">
-          <p class="mx-auto text-xs text-sand acumin">{copy}</p>
+          <div class="mx-auto">
+            <p class="text-xs text-sand acumin">{copy}</p>
+          </div>
         </div>
       </div>
     )
