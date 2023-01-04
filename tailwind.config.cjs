@@ -6,7 +6,8 @@ module.exports = {
       colors: {
         gold: "#fdd835",
         camo: "#4c4a3d",
-        sand: "#908d77",
+        sand: "#9F9B91",
+        clay: "#7D7B74",
         coal: "#1b1b19",
       },
     },
