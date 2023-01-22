@@ -2,7 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import NavBar from "../components/NavBar.astro";
 import Masthead from "../components/Masthead.astro";
-import Card from "../components/Card.astro";
+import Project from "../components/Project.astro";
 import Footer from "../components/Footer.astro";
 
 import projects from "../data/projects.json";
@@ -37,8 +37,8 @@ import projects from "../data/projects.json";
 
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
           {
-            projects.projects.map(({ image, copy }, index) => (
-              <Card image={image} copy={copy} />
+            projects.projects.map(({ image, copy, link }, index) => (
+              <Project image={image} copy={copy} link={link} />
             ))
           }
         </div>
