@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://section27.bandcamp.com/track/bordata",
+      "image": "/images/human-is-humans-vol2.jpg",
+      "copy": "Listen to Bordata from DasF from the Human is Human's Master Vol 2 compilation"
+    },
+    {
       "image": "/images/unexplained_310.jpg",
       "copy": "First broadcast of tracks from the up and coming Room of Wires/Station Zero collaboration"
     },
