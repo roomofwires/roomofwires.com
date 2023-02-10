@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "link": "https://ant-zen.bandcamp.com/album/welcome-to-the-end-game",
+      "image": "/images/end-game-cover.jpg",
+      "copy": "Welcome to the End Game - 10 track LP",
+      "info": "ant-zen [dig095] - Feb 2023"
+    },
+    {
       "link": "https://section27.bandcamp.com/album/human-is-humans-master-vol-2",
       "image": "/images/human-is-humans-vol2.jpg",
       "copy": "Bordata from DasF appears on the Human is Human's Master Vol 2 compilation",

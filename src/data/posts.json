@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://ant-zen.bandcamp.com/album/welcome-to-the-end-game",
+      "image": "/images/end-game-cover.jpg",
+      "copy": "Our new album Welcome to the End Game is out now on ant-zen"
+    },
+    {
       "link": "https://hearthis.at/djinfectiousunease/1512-infectious-unease-radio-050223-070223-industrialgothichorrorpunkpunkdarkwaveindie",
       "image": "/images/1512-infectious-unease.jpg",
       "copy": "Industrial, Horror, Darkwave and new Room of Wires - Infectious Unease Radio #1512"
