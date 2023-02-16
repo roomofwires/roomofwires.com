@@ -6,9 +6,24 @@
       "copy": "'An album of dark beauty' - Welcome to the End Game is out now on ant-zen"
     },
     {
+      "link": "https://bandcamp.com/headphonecommute",
+      "image": "/images/headphone-comm-feb23.jpg",
+      "copy": "Headphone Commute stumble across the Room of Wires"
+    },
+    {
       "link": "https://www.youtube.com/watch?v=3KSfa6mx0pc&feature=youtu.be",
       "image": "/images/buried-video.jpg",
       "copy": "Buried video by Daz Disley from the album Welcome to the End Game on ant-zen"
+    },
+    {
+      "link": "https://www.beatport.com/artist/room-of-wires/506103",
+      "image": "/images/RoW-Beatport.jpg",
+      "copy": "Our catalogue is now available on Beatport too"
+    },
+    {
+      "link": "https://ant-zen.bandcamp.com",
+      "image": "/images/ant-zen-releases.jpg",
+      "copy": "ant-zen release schedule for February 2023"
     },
     {
       "link": "https://soundcloud.com/syndae/syndae-episode-656",
