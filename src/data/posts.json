@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://open.spotify.com/playlist/0eIrAQ4CxZ59T3RK1xEQFc",
+      "image": "/images/monolith-spotify-feb23.jpg",
+      "copy": "Eclectic collection from Monolith Cocktail"
+    },
+    {
       "link": "https://www.indexmusic.org/s/selection-2023-02-19",
       "image": "/images/index-selection-feb23.jpg",
       "copy": "Index - Enjoy last week's gems in the outlier niches of electronic music"
