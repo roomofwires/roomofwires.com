@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.mixcloud.com/The_Fused_Wireless_Programme/the-fused-wireless-programme-2309",
+      "image": "/images/fused-2309.jpg",
+      "copy": "Fused Wireless Programme, with Omnimar, Depeche Mode, Telekon, Laibach, Room of Wires and more"
+    },
+    {
       "link": "https://open.spotify.com/playlist/0eIrAQ4CxZ59T3RK1xEQFc",
       "image": "/images/monolith-spotify-feb23.jpg",
       "copy": "Eclectic collection from Monolith Cocktail"
