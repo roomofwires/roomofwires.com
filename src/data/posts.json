@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "link": "https://radio-hannover.de",
+      "image": "/images/border_waves_grenzwellen.jpg",
+      "copy": "Border Waves - Grenzwellen 08.03.23 - Clock DVA, Chris and Cosey, Room of Wires"
+    },
+    {
+      "link": "https://hearthis.at/djinfectiousunease/1516-infectious-unease-radio-050323-070323-industrialgothichorrorpunkpunkdarkwaveindie",
+      "image": "/images/1516-infectious-unease.jpg",
+      "copy": "1516# Industrial, Gothic, Darkwave - Delerium, Mind Machine, Voodoo Bible, Room of Wires"
+    },
+    {
+      "link": "https://www.voodooradio.online/?fbclid=IwAR3D4xMP2UnC2x95U1lgnZG765wgLTkM6-XG1K1RIaYu4hDfo_lG6KWw0jg",
+      "image": "/images/voodoo_radio_11.jpg",
+      "copy": "Edition 11 - Sinday 12th March, Recht auf Rausch, VNV Nation, FabrikC, Room of Wires"
+    },
+    {
       "link": "https://www.mixcloud.com/The_Fused_Wireless_Programme/the-fused-wireless-programme-2309",
       "image": "/images/fused-2309.jpg",
       "copy": "Fused Wireless Programme, with Omnimar, Depeche Mode, Telekon, Laibach, Room of Wires and more"
