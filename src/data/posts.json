@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "link": "https://open.spotify.com/playlist/2Clir9CzYbbKx3yUqy1fzL?si=c2d4d430446a476d",
+      "image": "/images/econnectfm-28.jpg",
+      "copy": "Electronic ConnectFM #28 - new electronic tracks including Rodman, Seba, Nina Kraviz, ELEFAN, Mason Bee, Room of Wires"
+    },
+    {
+      "link": "https://dubiks.com/2023/03/13/futuristic-17-future-sounds",
+      "image": "/images/futuristic-17.jpg",
+      "copy": "Dubiks mix - latest episode including Prequel Tapes, Detroit's Filthiest, Gus Heavy, Cyril Atef, Room of Wires"
+    },
+    {
       "link": "https://hearthis.at/bannandthefix/the-fix-2310",
       "image": "/images/the-fix-2310.jpg",
       "copy": "The Fix #10 - focusing on the darker: Rosegarden Funeral Party, Dope, Transponder, Violet Poison, Room of Wires"
