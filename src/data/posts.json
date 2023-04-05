@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "link": "https://soundcloud.com/bassagenda/bass-agenda-227-room-of-wires",
+      "image": "/images/BA_interview.jpg",
+      "copy": "Hear both sides of the story, as Bass Agenda interviews Room of Wires alongside an array of electronic gems"
+    },
+    {
+      "link": "https://open.spotify.com/playlist/7GjzZST3g8PmSlD8PO0dDc?si=9eed4094f3754a16",
+      "image": "/images/modular_playlist.jpg",
+      "copy": "The Sound of Modular playlist featuring: Richard Devine, Hainback, Ann Annie, Alessandro Cortini, Room of Wires"
+    },
+    {
       "link": "https://igloomag.com/reviews/room-of-wires-welcome-to-the-end-game-ant-zen",
       "image": "/images/igloo-endgame.jpg",
       "copy": "Jason from Igloo reviews Welcome to the End Game"
