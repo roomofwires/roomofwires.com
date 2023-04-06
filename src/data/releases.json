@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "link": "https://ping-discs.bandcamp.com/album/coldfire",
+      "image": "/images/coldfire-sleeve.jpg",
+      "copy": "Coldfire - 10 track album by 4T Thieves & Room of Wires",
+      "info": "Cat no. P-BumT-Nonss - April 2023"
+    },
+    {
       "link": "https://ant-zen.bandcamp.com/album/welcome-to-the-end-game",
       "image": "/images/end-game-cover.jpg",
       "copy": "Welcome to the End Game - 10 track LP",

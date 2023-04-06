@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "link": "https://ping-discs.bandcamp.com/album/coldfire",
+      "image": "/images/coldfire-cd.jpg",
+      "copy": "New album 'Coldfire' together with 4T Thieves - Released on CD and digital on PingDiscs"
+    },
+    {
+      "link": "https://podcasts.apple.com/gb/podcast/bassagenda-227-room-of-wires/id1090030497?i=1000605834688",
+      "image": "/images/BA_interview_apple.jpg",
+      "copy": "Also on Apple Podcasts, don't miss the Bass Agenda interview"
+    },
+    {
       "link": "https://soundcloud.com/bassagenda/bass-agenda-227-room-of-wires",
       "image": "/images/BA_interview.jpg",
       "copy": "Hear both sides of the story, as Bass Agenda interviews Room of Wires alongside an array of electronic gems"
