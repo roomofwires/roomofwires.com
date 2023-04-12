@@ -1,14 +1,14 @@
 {
   "posts": [
     {
-      "link": "https://tilos.hu/episode/vakuumcsomagolt-hegyilevego/2023/03/24",
-      "image": "/images/tilos-radio.jpg",
-      "copy": "Big show from DJ Kraak, on Tilos Radio: Das Ding, Neon Lies, Oppenheimer Analysis, Suicide, Room of Wires"
-    },
-    {
       "link": "https://ping-discs.bandcamp.com/album/coldfire",
       "image": "/images/coldfire-cd.jpg",
       "copy": "New album 'Coldfire' together with 4T Thieves - Released on CD and digital on PingDiscs"
+    },
+    {
+      "link": "https://tilos.hu/episode/vakuumcsomagolt-hegyilevego/2023/03/24",
+      "image": "/images/tilos-radio.jpg",
+      "copy": "Big show from DJ Kraak, on Tilos Radio: Das Ding, Neon Lies, Oppenheimer Analysis, Suicide, Room of Wires"
     },
     {
       "link": "https://podcasts.apple.com/gb/podcast/bassagenda-227-room-of-wires/id1090030497?i=1000605834688",
