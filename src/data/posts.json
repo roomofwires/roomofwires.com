@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.mixcloud.com/SelfOscillate/ingos-electronica-mix-35",
+      "image": "/images/ingo-zobel-35.jpg",
+      "copy": "Ad Astra Radio, mix by Ingo Zobel #35 - the many different flavours of electronica from Skee Mask, CH415, Plaid and many more"
+    },
+    {
       "link": "https://ping-discs.bandcamp.com/album/coldfire",
       "image": "/images/coldfire-cd.jpg",
       "copy": "New album 'Coldfire' together with 4T Thieves - Released on CD and digital on PingDiscs"
