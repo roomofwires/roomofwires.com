@@ -9,6 +9,7 @@ module.exports = {
         sand: "#9F9B91",
         clay: "#7D7B74",
         coal: "#1b1b19",
+        rust: "#f38f3d",
       },
     },
   },

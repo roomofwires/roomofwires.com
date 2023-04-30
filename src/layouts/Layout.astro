@@ -77,6 +77,22 @@ const { title } = Astro.props;
       }
 
       @font-face {
+        font-family: "AvenirNext";
+        src: url("/fonts/AvenirNextRegular.woff") format("woff");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "AvenirNext";
+        src: url("/fonts/AvenirNextBold.woff") format("woff");
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
         font-family: "Eurostile";
         src: url("/fonts/EurostileExtended.woff") format("woff");
         font-weight: normal;
@@ -94,6 +110,10 @@ const { title } = Astro.props;
 
       .acumin {
         font-family: "AcuminPro";
+      }
+
+      .avenir {
+        font-family: "AvenirNext";
       }
 
       .eurostile {
