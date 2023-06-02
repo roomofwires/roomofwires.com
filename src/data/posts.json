@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.side-line.com/room-of-wires-welcome-to-the-end-game-album-ant-zen",
+      "image": "/images/sideline-endgame.jpg",
+      "copy": "'This is music from a sonic laboratory' Side-Line Magazine review latest album"
+    },
+    {
       "link": "https://igloomag.com/reviews/4t-thieves-and-room-of-wires-coldfire-pingdiscs",
       "image": "/images/4t_row_igloo.jpg",
       "copy": "'Colliding soundscapes and saturated electronics' - Igloo Mag review"
