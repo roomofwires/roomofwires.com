@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "link": "https://section27.bandcamp.com/album/trenchcoat-ep",
+      "image": "/images/trenchcoat_ep.jpg",
+      "copy": "Trenchcoat - 4 track EP on Section 27",
+      "info": "Cat no. S29-199 - June 2023"
+    },
+    {
       "link": "https://ping-discs.bandcamp.com/album/coldfire",
       "image": "/images/coldfire-sleeve.jpg",
       "copy": "Coldfire - 10 track album by 4T Thieves & Room of Wires",
