@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "link": "https://igloomag.com/reviews/dasf-trenchcoat-section-27",
+      "image": "/images/igloo_dasf.jpg",
+      "copy": "'A powerful and unrelenting sonic tetrad' - Igloo reviews Trenchcoat EP"
+    },
+    {
+      "link": "https://soundcloud.com/loose-lips123/loose-lips-mix-series-438-illocanblo?si=40f4162f9c9b4ea59306a04174699684",
+      "image": "/images/loose_lips_438.jpg",
+      "copy": "Featuring a diverse range of remixers who have contributed to illocanblo's new album Liminal Rhythms"
+    },
+    {
       "link": "https://mahorka.bandcamp.com/album/the-shipping-forecast",
       "image": "/images/long_way_home.jpg",
       "copy": "The Shipping Forecast - 4T Thieves plus special remixes, including The Long Way Home from RoW"
