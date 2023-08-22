@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://alienairpodcast.podbean.com/e/2023augno3-mid-era-idm",
+      "image": "/images/aap_aug_3.jpg",
+      "copy": "Alien Air Podcast Aug No. 3 - Plaid, Surface 10, Morphology, Room of Wires, Liebknecht"
+    },
+    {
       "link": "https://igloomag.com/reviews/dasf-trenchcoat-section-27",
       "image": "/images/igloo_dasf.jpg",
       "copy": "'A powerful and unrelenting sonic tetrad' - Igloo reviews Trenchcoat EP"
