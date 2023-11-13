@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "link": "https://roomofwires.bandcamp.com/album/floodplains",
+      "image": "/images/floodplains-ep.jpg",
+      "copy": "Floodplains - 4 track EP",
+      "info": "Self released on Bandcamp - Nov 2023"
+    },
+    {
       "link": "https://section27.bandcamp.com/album/island-flux-remixes",
       "image": "/images/island_flux_remixes.jpg",
       "copy": "Island Flux remixes brings together a diverse group of artists including Sea Above (Room of Wires remix)",
