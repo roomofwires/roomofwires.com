@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "link": "https://lyl.live/show/get-in-the-pobotron",
+      "image": "/images/pobotron_dec.jpg",
+      "copy": "We're back in the Pobotron, new tracks on this Friday's show (1st December 17:00 UK time)"
+    },
+    {
+      "link": "https://ihrtn.net/dispatches-from-the-underground-nov-2023-pt-2",
+      "image": "/images/ihrtn_nov.jpg",
+      "copy": "Floodplains EP featured in November's ihrtn Despatches"
+    },
+    {
       "link": "https://roomofwires.bandcamp.com/album/floodplains",
       "image": "/images/floodplains-ep.jpg",
       "copy": "A deep exploration of lush, hypnotic soundscapes - Floodplains EP is out now on Bandcamp"
