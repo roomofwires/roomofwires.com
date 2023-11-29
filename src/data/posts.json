@@ -1,6 +1,21 @@
 {
   "posts": [
     {
+      "link": "https://open.spotify.com/playlist/1CCTT9XOFcqkyKRFVp0GnL?si=eec583bc12ef41e2",
+      "image": "/images/cv_out_dumb.jpg",
+      "copy": "Playlist of captivating electronics - Valance Drakes, Kangding Ray, Forest Swords, Hecq, Amos Roddy"
+    },
+    {
+      "link": "https://lyl.live/show/get-in-the-pobotron",
+      "image": "/images/get_in_the_pobotron.jpg",
+      "copy": "We're featuring on the latest 'Get in the Pobotron' show"
+    },
+    {
+      "link": "https://open.spotify.com/playlist/4HHQqSly98kwZ7aAKxm7G7?si=f5e672d5e41742c5",
+      "image": "/images/microtechno.jpg",
+      "copy": "Murcof, Laub, Bambooman, Monolake, Room of Wires - Spotify Playlist"
+    },
+    {
       "link": "https://lyl.live/show/get-in-the-pobotron",
       "image": "/images/pobotron_dec.jpg",
       "copy": "We're back in the Pobotron, new tracks on this Friday's show (1st December 17:00 UK time)"
