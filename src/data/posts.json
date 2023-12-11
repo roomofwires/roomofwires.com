@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://grenzwellen.bandcamp.com/album/grenzwellen-zw-lf",
+      "image": "/images/grenzwellen-zw-lf.jpg",
+      "copy": "Featured alongside some of the greats from this year's shows... Grenzwellen Zw​ö​lf"
+    },
+    {
       "link": "https://open.spotify.com/playlist/5LPimhFxC8LZ3rtCCrFVcX?si=92e1815687754c9e",
       "image": "/images/monolith_nov23.jpg",
       "copy": "Monolith Cocktail choice tracks - Nov 2023"
