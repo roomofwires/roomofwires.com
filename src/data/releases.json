@@ -1,10 +1,16 @@
 {
   "releases": [
     {
+      "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-iv",
+      "image": "/images/Mad_4.jpg",
+      "copy": "Bloat from our collaboration with Station Zero appears on M.A.D. 4",
+      "info": "Cat No. [M.A.D.004] - Dec 2023"
+    },
+    {
       "link": "https://grenzwellen.bandcamp.com/album/grenzwellen-zw-lf",
       "image": "/images/grenzwellen-zw-lf.jpg",
       "copy": "Oceans Light appears on Grenzwellen Zwolf compilation",
-      "info": "Cat.No. [GW 13] - Dec 2023"
+      "info": "Cat No. [GW 13] - Dec 2023"
     },
     {
       "link": "https://roomofwires.bandcamp.com/album/floodplains",
