@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.mixcloud.com/BeachyHeadRadio/deck-chair-4-beautiful-burnout-by-ivo-petrov",
+      "image": "/images/deck_chair_4.jpg",
+      "copy": "Invitation mix by Ivo Petrov (Mahorka Records) including Vangelis, Underworld, Audio Obscura, Room of Wires"
+    },
+    {
       "link": "https://monolithcocktail.com/2023/12/16/choice-favourite-albums-of-the-year-pan-afrikan-peoples-arkestra-to-zohastre",
       "image": "/images/monolith_besot_of_23.jpg",
       "copy": "Featured in the Monolith Cocktail Best of 2023 alongside Sakamoto, Seaming To, Salem Trials"
