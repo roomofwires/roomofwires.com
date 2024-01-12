@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.mixcloud.com/wwwbloodlitradiocom/in-the-bloodlit-dark-january-9-2024",
+      "image": "/images/bloodlit-dark_09-01-24.jpg",
+      "copy": "Bloodlit Dark - The latest underground club tracks from the Industrial, Gothic, EBM, Dark"
+    },
+    {
       "link": "https://soundcloud.com/section-27/2023-mx",
       "image": "/images/2023_mx.jpg",
       "copy": "S27 label showcase featuring Peltiform, DasF, Bouwakanja, Foresense, Datolar, Room of Wires"
