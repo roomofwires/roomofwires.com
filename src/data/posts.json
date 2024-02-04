@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://section27.bandcamp.com/album/decayed",
+      "image": "/images/decayed_cover.jpg",
+      "copy": "Decayed - 10 years of isolation and collaboration, remixed"
+    },
+    {
       "link": "https://soundcloud.com/section-27/2023-mx",
       "image": "/images/2023_mx.jpg",
       "copy": "S27 label showcase featuring Peltiform, DasF, Bouwakanja, Foresense, Datolar, Room of Wires"

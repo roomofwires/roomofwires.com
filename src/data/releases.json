@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "link": "https://section27.bandcamp.com/album/decayed",
+      "image": "/images/decayed_cover.jpg",
+      "copy": "Decayed - 9 track compilation of remixes and reworkings on Section27",
+      "info": "Cat no. [S27-xxxxxx] February 2024"
+    },
+    {
       "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-iv",
       "image": "/images/Mad_4.jpg",
       "copy": "Bloat from our collaboration with Station Zero appears on M.A.D. 4",
