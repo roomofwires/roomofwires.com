@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "image": "/images/decayed_compilation.jpg",
+      "copy": "10yrs of isolation and collaboration required something special. We joined with some of our allies from the last decade to create an album of highlights from the past. Featuring: The Dronefynder General, Tomoroh Hidari, Peltiform, Cognition Delay, Weldroid, Daz Disley, and 4T Thieves in a seamless mix by Section 27.",
+      "link": "/decayed"
+    },
+    {
       "image": "/images/dasf.jpg",
       "copy": "Both Andrews join forces with The Dronefynder General to create DasF. Dark unsettling electronica, forged from evaporating melodies and throbbing layers of sonic disquiet.",
       "link": "/dasf"
