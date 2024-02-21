@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://igloomag.com/reviews/room-of-wires-decayed-section-27",
+      "image": "/images/igloo_decayed.jpg",
+      "copy": "'...an intricate and elaborate collection, Decayed has plenty to offer' - Igloo reviews our latest release"
+    },
+    {
       "link": "https://youtu.be/xzbRgLFYiMw",
       "image": "/images/teaser_still.jpg",
       "copy": "10yrs in the making...check out the teaser trailer for Decayed"
