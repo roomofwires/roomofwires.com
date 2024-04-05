@@ -1,6 +1,12 @@
 {
   "releases": [
     {
+      "link": "https://ant-zen.bandcamp.com/album/carbon-based-shrine",
+      "image": "/images/carbon_based_shrine.jpg",
+      "copy": "Carbon Based Shrine - 9 track collaboration with Station Zero",
+      "info": "ant-zen [dig098] - Apr 2024"
+    },
+    {
       "link": "https://section27.bandcamp.com/album/decayed",
       "image": "/images/decayed_cover.jpg",
       "copy": "Decayed - 9 track compilation of remixes and reworkings on Section27",

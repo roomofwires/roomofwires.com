@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://ant-zen.bandcamp.com/album/carbon-based-shrine",
+      "image": "/images/carbon_based_shrine.jpg",
+      "copy": "Carbon Based Shrine, our collaboration with Station Zero, is now available to pre-order"
+    },
+    {
       "link": "https://igloomag.com/reviews/room-of-wires-decayed-section-27",
       "image": "/images/igloo_decayed.jpg",
       "copy": "'...an intricate and elaborate collection, Decayed has plenty to offer' - Igloo reviews our latest release"
