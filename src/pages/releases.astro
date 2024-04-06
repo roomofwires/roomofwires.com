@@ -21,9 +21,34 @@ import releases from "../data/releases.json";
           title="RELEASES"
           tagline="The full audio story from ground zero"
         />
+        <p class="text-2xl text-sand brutal pt-4 pb-2">ALBUMS</p>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
           {
-            releases.releases.map(({ link, image, copy, info }) => (
+            releases.albums.map(({ link, image, copy, info }) => (
+              <Card link={link} image={image} copy={copy} info={info} />
+            ))
+          }
+        </div>
+        <p class="text-2xl text-sand brutal pt-4 pb-2">EPs</p>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
+          {
+            releases.eps.map(({ link, image, copy, info }) => (
+              <Card link={link} image={image} copy={copy} info={info} />
+            ))
+          }
+        </div>
+        <p class="text-2xl text-sand brutal pt-4 pb-2">COLLABORATIONS</p>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
+          {
+            releases.collaborations.map(({ link, image, copy, info }) => (
+              <Card link={link} image={image} copy={copy} info={info} />
+            ))
+          }
+        </div>
+        <p class="text-2xl text-sand brutal pt-4 pb-2">COMPILATIONS</p>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
+          {
+            releases.compilations.map(({ link, image, copy, info }) => (
               <Card link={link} image={image} copy={copy} info={info} />
             ))
           }

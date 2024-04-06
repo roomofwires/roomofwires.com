@@ -1,5 +1,75 @@
 {
-  "releases": [
+  "albums": [
+    {
+      "link": "https://ant-zen.bandcamp.com/album/welcome-to-the-end-game",
+      "image": "/images/end-game-cover.jpg",
+      "copy": "Welcome to the End Game - 10 track LP",
+      "info": "ant-zen [dig095] - Feb 2023"
+    },
+    {
+      "link": "https://ant-zen.bandcamp.com/album/plague-of-people",
+      "image": "/images/ant-zen-dig075-x08.jpg",
+      "copy": "Plague of People - 10 track LP",
+      "info": "ant-zen [dig075] - Apr 2021"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/test-subject",
+      "image": "/images/Test_Subject_1000x1000.jpg",
+      "copy": "Test Subject - 6 track mini LP",
+      "info": "Self released on Bandcamp Oct 2019"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/white-transit",
+      "image": "/images/white_transit.jpg",
+      "copy": "White Transit - 10 track LP",
+      "info": "Self released on Bandcamp Nov 2018"
+    }
+  ],
+  "eps": [
+    {
+      "link": "https://roomofwires.bandcamp.com/album/floodplains",
+      "image": "/images/floodplains-ep.jpg",
+      "copy": "Floodplains - 4 track EP",
+      "info": "Self released on Bandcamp - Nov 2023"
+    },
+    {
+      "link": "https://rednetic.bandcamp.com/album/fever-switch",
+      "image": "/images/fever_switch_cover.jpg",
+      "copy": "Fever Switch - 5 track EP on Rednetic, CD and digital",
+      "info": "RN045 - Oct 2021"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/mastakink",
+      "image": "/images/ROW_Mastakink_3K.jpg",
+      "copy": "Mastakink - 4 track EP with remixes by MTCH, Vlnc Drks, Wolf Asylum",
+      "info": "Self released on Bandcamp Oct 2017"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/black-medicine",
+      "image": "/images/black_medicine.jpg",
+      "copy": "Black Medicine - 5 track EP",
+      "info": "Section27 Cat no. [S27-159] June 2017"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/used-as-a-runner",
+      "image": "/images/RoW_used_as_a_runner.jpg",
+      "copy": "Used as a Runner - 5 track EP",
+      "info": "Section27 Cat no. [S27-152] June 2016"
+    },
+    {
+      "link": "https://roomofwires.bandcamp.com/album/dead-skins",
+      "image": "/images/Room-of-Wires_Dead-Skins.jpg",
+      "copy": "Dead Skins - 5 track EP with Radical Eyes bonus track on download",
+      "info": "Self released on Bandcamp Nov 2015"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/asylum-sneaker",
+      "image": "/images/Room-of-Wires_Asylum-Sneaker.jpg",
+      "copy": "Asylum Sneaker - 5 track debut EP on Section27",
+      "info": "Section27 Cat no. [S27-134] Aug 2014)"
+    }
+  ],
+  "collaborations": [
     {
       "link": "https://ant-zen.bandcamp.com/album/carbon-based-shrine",
       "image": "/images/carbon_based_shrine.jpg",
@@ -13,6 +83,26 @@
       "info": "Cat no. [S27-203] February 2024"
     },
     {
+      "link": "https://section27.bandcamp.com/album/trenchcoat-ep",
+      "image": "/images/trenchcoat_ep.jpg",
+      "copy": "Trenchcoat - 4 track EP on Section 27",
+      "info": "Cat no. S29-199 - June 2023"
+    },
+    {
+      "link": "https://ping-discs.bandcamp.com/album/coldfire",
+      "image": "/images/coldfire-sleeve.jpg",
+      "copy": "Coldfire - 10 track album by 4T Thieves & Room of Wires",
+      "info": "Cat no. P-BumT-Nonss - April 2023"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/the-deep-blue-knight",
+      "image": "/images/blue_knight_ep.jpg",
+      "copy": "The Deep Blue Knight - 5 track EP by Weldroid & Room of Wires",
+      "info": "Section27 Cat no. [S27-176] Feb 2020"
+    }
+  ],
+  "compilations": [
+    {
       "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-iv",
       "image": "/images/Mad_4.jpg",
       "copy": "Bloat from our collaboration with Station Zero appears on M.A.D. 4",
@@ -23,12 +113,6 @@
       "image": "/images/grenzwellen-zw-lf.jpg",
       "copy": "Oceans Light appears on Grenzwellen Zwolf compilation",
       "info": "Cat No. [GW 13] - Dec 2023"
-    },
-    {
-      "link": "https://roomofwires.bandcamp.com/album/floodplains",
-      "image": "/images/floodplains-ep.jpg",
-      "copy": "Floodplains - 4 track EP",
-      "info": "Self released on Bandcamp - Nov 2023"
     },
     {
       "link": "https://section27.bandcamp.com/album/island-flux-remixes",
@@ -49,28 +133,10 @@
       "info": "Cat no. [mhrk357] - July 2023"
     },
     {
-      "link": "https://section27.bandcamp.com/album/trenchcoat-ep",
-      "image": "/images/trenchcoat_ep.jpg",
-      "copy": "Trenchcoat - 4 track EP on Section 27",
-      "info": "Cat no. S29-199 - June 2023"
-    },
-    {
       "link": "https://section27.bandcamp.com/album/14yrs-mx",
       "image": "/images/14yrs-mx.jpg",
       "copy": "Bordata from DasF features in the special Section 27 remix 14YRS-MX PT01 ",
       "info": "Cat no. [S27-198] - May 2023"
-    },
-    {
-      "link": "https://ping-discs.bandcamp.com/album/coldfire",
-      "image": "/images/coldfire-sleeve.jpg",
-      "copy": "Coldfire - 10 track album by 4T Thieves & Room of Wires",
-      "info": "Cat no. P-BumT-Nonss - April 2023"
-    },
-    {
-      "link": "https://ant-zen.bandcamp.com/album/welcome-to-the-end-game",
-      "image": "/images/end-game-cover.jpg",
-      "copy": "Welcome to the End Game - 10 track LP",
-      "info": "ant-zen [dig095] - Feb 2023"
     },
     {
       "link": "https://section27.bandcamp.com/album/human-is-humans-master-vol-2",
@@ -109,22 +175,10 @@
       "info": "M.A.D.M.A.D.002 - Dec 2021"
     },
     {
-      "link": "https://rednetic.bandcamp.com/album/fever-switch",
-      "image": "/images/fever_switch_cover.jpg",
-      "copy": "Fever Switch - 5 track EP on Rednetic, CD and digital",
-      "info": "RN045 - Oct 2021"
-    },
-    {
       "link": "https://section27.bandcamp.com/album/v80",
       "image": "/images/s27_v8.jpg",
       "copy": "Pharmacon appears on V8.0 Compilation by Section 27",
       "info": "Cat No. [S27-181] - June 2021"
-    },
-    {
-      "link": "https://ant-zen.bandcamp.com/album/plague-of-people",
-      "image": "/images/ant-zen-dig075-x08.jpg",
-      "copy": "Plague of People - 10 track LP",
-      "info": "ant-zen [dig075] - Apr 2021"
     },
     {
       "link": "https://cianorbe2nd.bandcamp.com/album/landscapes-vol-ii-cior-457",
@@ -157,22 +211,10 @@
       "info": "Black Box Recordings Apr 2020"
     },
     {
-      "link": "https://section27.bandcamp.com/album/the-deep-blue-knight",
-      "image": "/images/blue_knight_ep.jpg",
-      "copy": "The Deep Blue Knight - 5 track EP by Weldroid & Room of Wires",
-      "info": "Section27 Cat no. [S27-176] Feb 2020"
-    },
-    {
       "link": "https://eatthesun1.bandcamp.com/album/fingers-ep",
       "image": "/images/ets_fingers.jpg",
       "copy": "Fingers Room of Wires remix appears on Fingers EP by Eat The Sun",
       "info": "Self released on Bandcamp Nov 2019"
-    },
-    {
-      "link": "https://roomofwires.bandcamp.com/album/test-subject",
-      "image": "/images/Test_Subject_1000x1000.jpg",
-      "copy": "Test Subject - 6 track mini LP",
-      "info": "Self released on Bandcamp Oct 2019"
     },
     {
       "link": "https://blackboxrecordings.bandcamp.com/album/fear-of-a-pink-planet",
@@ -211,12 +253,6 @@
       "info": "Kaer'Uiks Jan 2019 - KRX019"
     },
     {
-      "link": "https://roomofwires.bandcamp.com/album/white-transit",
-      "image": "/images/white_transit.jpg",
-      "copy": "White Transit - 10 track LP",
-      "info": "Self released on Bandcamp Nov 2018"
-    },
-    {
       "link": "https://archive.org/details/dark4/",
       "image": "/images/dark4.jpg",
       "copy": "Known November appears on Dark 4 compilation by Dan X",
@@ -233,18 +269,6 @@
       "image": "/images/ocean_of_sound3.jpg",
       "copy": "Unsized appears on Ocean of Sound compilation from Unexplained Sounds",
       "info": "Unexplained Sounds Group Dec 2017"
-    },
-    {
-      "link": "https://roomofwires.bandcamp.com/album/mastakink",
-      "image": "/images/ROW_Mastakink_3K.jpg",
-      "copy": "Mastakink - 4 track EP with remixes by MTCH, Vlnc Drks, Wolf Asylum",
-      "info": "Self released on Bandcamp Oct 2017"
-    },
-    {
-      "link": "https://section27.bandcamp.com/album/black-medicine",
-      "image": "/images/black_medicine.jpg",
-      "copy": "Black Medicine - 5 track EP",
-      "info": "Section27 Cat no. [S27-159] June 2017"
     },
     {
       "link": "https://youtu.be/g1UmwRmTvRs",
@@ -271,12 +295,6 @@
       "info": "Section27 Cat no. [S27-154] 2016"
     },
     {
-      "link": "https://section27.bandcamp.com/album/used-as-a-runner",
-      "image": "/images/RoW_used_as_a_runner.jpg",
-      "copy": "Used as a Runner - 5 track EP",
-      "info": "Section27 Cat no. [S27-152] June 2016"
-    },
-    {
       "link": "https://www.discogs.com/The-KLF-The-KLF-Remix-Project-Part-One/release/7983392",
       "image": "/images/klf_remix_full.jpg",
       "copy": "In my Head appears on the KLF Remix Project part one",
@@ -299,12 +317,6 @@
       "image": "/images/black-box-n.jpg",
       "copy": "Fluxx (Room of Wires remix) appears on Black Box N compilation",
       "info": "Kaer'Uiks [KRX001] Dec 2015"
-    },
-    {
-      "link": "https://roomofwires.bandcamp.com/album/dead-skins",
-      "image": "/images/Room-of-Wires_Dead-Skins.jpg",
-      "copy": "Dead Skins - 5 track EP with Radical Eyes bonus track on download",
-      "info": "Self released on Bandcamp Nov 2015"
     },
     {
       "link": "https://touched.bandcamp.com/album/touched-two-the-remixes",
@@ -335,12 +347,6 @@
       "image": "/images/dark3.jpg",
       "copy": "Asylum Sneaker appears on the Dark 3 compilation from Planet X Records",
       "info": "PXRec037VA - Sept 2014"
-    },
-    {
-      "link": "https://section27.bandcamp.com/album/asylum-sneaker",
-      "image": "/images/Room-of-Wires_Asylum-Sneaker.jpg",
-      "copy": "Asylum Sneaker - 5 track debut EP on Section27",
-      "info": "Section27 Cat no. [S27-134] Aug 2014)"
     }
   ]
 }
