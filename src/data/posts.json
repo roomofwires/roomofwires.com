@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://open.spotify.com/playlist/09AEsaHXvElJ4iaQqe37is?si=01bcc320ad5941b0",
+      "image": "/images/monolith_apr24.jpg",
+      "copy": "Featured on Monolith Cocktail's April selection"
+    },
+    {
       "link": "https://unexplainedsounds.mixlr.com",
       "image": "/images/recog_test_340.jpg",
       "copy": "Featuring on an Unexplained Sounds radio transmission 21.04.24 at 20:30 (GMT)"
