@@ -1,14 +1,12 @@
 ---
-const { link, embed_url, title } = Astro.props;
+const { link, title } = Astro.props;
 ---
 
 <div class="mx-auto bg-coal w-full">
   <div class="aspect-w-1 aspect-h-1">
     <iframe
-      src={embed_url.concat(
+      src={link.concat(
         "/size=large/bgcol=1b1b19/linkcol=fdd835/minimal=true/transparent=true/",
-      )}
-      seamless><a href={link}>{title}</a></iframe
-    >
+      )}></iframe>
   </div>
 </div>
