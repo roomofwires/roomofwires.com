@@ -27,8 +27,8 @@ import releases from "../data/releases.json";
             <p class="text-sand brutal text-3xl">FEATURED</p>
           </div>
           {
-            releases.featured.map(({ link, title }) => (
-              <Embed link={link} title={title} />
+            releases.featured.map(({ album_id }) => (
+              <Embed album_id={album_id} />
             ))
           }
         </div>

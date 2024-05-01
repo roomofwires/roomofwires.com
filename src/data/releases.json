@@ -1,16 +1,13 @@
 {
   "featured": [
     {
-      "link": "https://bandcamp.com/EmbeddedPlayer/album=2046010272",
-      "title": "Carbon Based Shrine by Room of Wires · Station Zero"
+      "album_id": "2046010272"
     },
     {
-      "link": "https://bandcamp.com/EmbeddedPlayer/album=3314000485",
-      "title": "Decayed by Room of Wires"
+      "album_id": "3314000485"
     },
     {
-      "link": "https://bandcamp.com/EmbeddedPlayer/album=3624692019",
-      "title": "Floodplains by Room of Wires"
+      "album_id": "3624692019"
     }
   ],
   "albums": [

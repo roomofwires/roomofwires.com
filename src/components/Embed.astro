@@ -1,12 +1,14 @@
 ---
-const { link, title } = Astro.props;
+const { album_id } = Astro.props;
 ---
 
 <div class="mx-auto bg-coal w-full">
   <div class="aspect-w-1 aspect-h-1">
     <iframe
-      src={link.concat(
-        "/size=large/bgcol=1b1b19/linkcol=fdd835/minimal=true/transparent=true/",
-      )}></iframe>
+      src={"https://bandcamp.com/EmbeddedPlayer/album="
+        .concat(album_id)
+        .concat(
+          "/size=large/bgcol=1b1b19/linkcol=fdd835/minimal=true/transparent=true/",
+        )}></iframe>
   </div>
 </div>
