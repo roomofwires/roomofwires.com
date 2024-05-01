@@ -3,6 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import NavBar from "../components/NavBar.astro";
 import Masthead from "../components/Masthead.astro";
 import Card from "../components/Card.astro";
+import Embed from "../components/Embed.astro";
 import Footer from "../components/Footer.astro";
 
 import releases from "../data/releases.json";
@@ -26,8 +27,8 @@ import releases from "../data/releases.json";
             <p class="text-sand brutal text-3xl">FEATURED</p>
           </div>
           {
-            releases.featured.map(({ link, image, copy, info }) => (
-              <Card link={link} image={image} copy={copy} info={info} />
+            releases.featured.map(({ link, embed_url, title }) => (
+              <Embed link={link} embed_url={embed_url} title={title} />
             ))
           }
         </div>

@@ -1,19 +1,19 @@
 {
   "featured": [
     {
-      "link": "https://section27.bandcamp.com/album/decayed",
-      "image": "/images/decayed_cover.jpg",
-      "copy": "Decayed - 9 tracks of remixes and reworkings by us and friends on Section27"
+      "link": "https://ant-zen.bandcamp.com/album/carbon-based-shrine",
+      "embed_url": "https://bandcamp.com/EmbeddedPlayer/album=2046010272",
+      "title": "Carbon Based Shrine by Room of Wires · Station Zero"
     },
     {
-      "link": "https://ant-zen.bandcamp.com/album/carbon-based-shrine",
-      "image": "/images/carbon_based_shrine.jpg",
-      "copy": "Carbon Based Shrine - our 9 track collaboration with Station Zero, 4 years in the making, on ant-zen"
+      "link": "https://section27.bandcamp.com/album/decayed",
+      "embed_url": "https://bandcamp.com/EmbeddedPlayer/album=3314000485",
+      "title": "Decayed by Room of Wires"
     },
     {
       "link": "https://roomofwires.bandcamp.com/album/floodplains",
-      "image": "/images/floodplains-ep.jpg",
-      "copy": "Floodplains - a self-released EP of ambient explorations"
+      "embed_url": "https://bandcamp.com/EmbeddedPlayer/album=3624692019",
+      "title": "Floodplains by Room of Wires"
     }
   ],
   "albums": [
