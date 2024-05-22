@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://igloomag.com/reviews/room-of-wires-station-zero-carbon-based-shrine-ant-zen",
+      "image": "/images/igloo_sz_review.jpg",
+      "copy": "'A sonic collage of industrial detritus and experimental sound forms' - Igloo reviews Carbon Based Shrine"
+    },
+    {
       "link": "https://open.spotify.com/playlist/09AEsaHXvElJ4iaQqe37is?si=01bcc320ad5941b0",
       "image": "/images/monolith_apr24.jpg",
       "copy": "Featured on Monolith Cocktail's April selection"
