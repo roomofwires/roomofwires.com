@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.voodooradio.online",
+      "image": "/images/banned_sessionz.jpg",
+      "copy": "The Banned Sessionz - EBM, Industrial, Darkwave - 7pm (CET) on Voodoo Radio"
+    },
+    {
       "link": "https://www.mixcloud.com/SetSRradio/radio-transmission-n1325-06052024-16volt-negativeonarrivals-top-of-the-weeknon-stop-music",
       "image": "/images/sampler_sans_1325.jpg",
       "copy": "Sampler & Sans Reproches (Radio show #1325): EBM - Synthwave - Industrial & Related Music"
