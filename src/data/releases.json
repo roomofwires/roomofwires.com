@@ -114,6 +114,12 @@
   ],
   "compilations": [
     {
+      "link": "https://www.youtube.com/watch?v=1gDu0cwvYqs",
+      "image": "/images/song_for_astronauts.jpg",
+      "copy": "Song for Astronauts - an audio/visual tribute",
+      "info": "Self released July 2024"
+    },
+    {
       "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-iv",
       "image": "/images/Mad_4.jpg",
       "copy": "Bloat from our collaboration with Station Zero appears on M.A.D. 4",

@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.youtube.com/watch?v=1gDu0cwvYqs",
+      "image": "/images/song_for_astronauts.jpg",
+      "copy": "'Obviously a major malfunction' - Song for Astronauts, our tribute to those who lost their lives in the name of space exploration"
+    },
+    {
       "link": "https://www.voodooradio.online",
       "image": "/images/banned_sessionz.jpg",
       "copy": "The Banned Sessionz - EBM, Industrial, Darkwave - 7pm (CET) on Voodoo Radio"
