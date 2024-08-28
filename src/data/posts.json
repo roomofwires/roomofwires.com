@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "http://josephaleo.com/blog/category/listen/soundwave",
+      "image": "/images/soundwave_192.jpg",
+      "copy": "Our mix #192 for Soundwave - From Lanark, Black Dog, Ital, to Naum Gabo. Enjoy..."
+    },
+    {
       "link": "https://www.youtube.com/watch?v=1gDu0cwvYqs",
       "image": "/images/song_for_astronauts.jpg",
       "copy": "'Obviously a major malfunction' - Song for Astronauts, our tribute to those who lost their lives in the name of space exploration"
