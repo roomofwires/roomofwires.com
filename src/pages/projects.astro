@@ -37,7 +37,7 @@ import projects from "../data/projects.json";
 
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
           {
-            projects.projects.map(({ image, copy, link }, index) => (
+            projects.projects.map(({ image, copy, link }) => (
               <Project image={image} copy={copy} link={link} />
             ))
           }
