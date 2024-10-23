@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://mahorka.bandcamp.com/album/numerik",
+      "image": "/images/numerik_sleeve.jpg",
+      "copy": "New album from Peltiform including our collaborative track Jitr"
+    },
+    {
       "link": "http://josephaleo.com/blog/category/listen/soundwave",
       "image": "/images/soundwave_192.jpg",
       "copy": "Our mix #192 for Soundwave - From Lanark, Black Dog, Ital, to Naum Gabo. Enjoy..."
