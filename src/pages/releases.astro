@@ -24,7 +24,7 @@ import releases from "../data/releases.json";
         />
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 pb-4">
           <div class="flex items-center justify-center bg-black min-h-24">
-            <p class="text-sand brutal text-3xl">FEATURED</p>
+            <p class="text-clay brutal text-3xl">FEATURED</p>
           </div>
           {
             releases.featured.map(({ album_id }) => (
@@ -34,7 +34,7 @@ import releases from "../data/releases.json";
         </div>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-5 pb-4">
           <div class="flex items-center justify-center bg-black min-h-24">
-            <p class="text-sand brutal text-3xl">ALBUMS</p>
+            <p class="text-clay brutal text-3xl">ALBUMS</p>
           </div>
           {
             releases.albums.map(({ link, image, copy, info }) => (
@@ -44,7 +44,7 @@ import releases from "../data/releases.json";
         </div>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 pb-4">
           <div class="flex items-center justify-center bg-black min-h-24">
-            <p class="text-sand brutal text-3xl">EPs</p>
+            <p class="text-clay brutal text-3xl">EPs</p>
           </div>
           {
             releases.eps.map(({ link, image, copy, info }) => (
@@ -54,7 +54,7 @@ import releases from "../data/releases.json";
         </div>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 pb-4">
           <div class="flex items-center justify-center bg-black min-h-24">
-            <p class="text-sand brutal text-3xl">COLLABORATIONS</p>
+            <p class="text-clay brutal text-3xl">COLLABORATIONS</p>
           </div>
           {
             releases.collaborations.map(({ link, image, copy, info }) => (
@@ -62,9 +62,19 @@ import releases from "../data/releases.json";
             ))
           }
         </div>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-5 pb-4">
+          <div class="flex items-center justify-center bg-black min-h-24">
+            <p class="text-clay brutal text-3xl">REMIXES</p>
+          </div>
+          {
+            releases.remixes.map(({ link, image, copy, info }) => (
+              <Card link={link} image={image} copy={copy} info={info} />
+            ))
+          }
+        </div>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">
           <div class="flex items-center justify-center bg-black min-h-24">
-            <p class="text-sand brutal text-3xl">COMPILATIONS</p>
+            <p class="text-clay brutal text-3xl">COMPILATIONS</p>
           </div>
           {
             releases.compilations.map(({ link, image, copy, info }) => (
