@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "image": "/images/Peltiform_Numerik.jpg",
+      "copy": "A collaboration with long-term friends from S27 evolved into a companion LP to Like Phantoms for Peltiform entitled Numerik out on Mahorka.",
+      "link": "https://mahorka.bandcamp.com/album/numerik"
+    },
+    {
       "image": "/images/decayed_compilation.jpg",
       "copy": "10yrs of isolation and collaboration required something special. We joined with some of our allies from the last decade to create an album of highlights from the past. Featuring: The Dronefynder General, Tomoroh Hidari, Peltiform, Cognition Delay, Weldroid, Daz Disley, and 4T Thieves in a seamless mix by Section 27.",
       "link": "/decayed"
@@ -22,11 +27,12 @@
     },
     {
       "image": "/images/flint_glass_remix.jpg",
-      "copy": "Remix in progress for the hugely atmospheric Flint Glass, will keep you posted."
+      "copy": "Our remix of aymara features on the album WAKONDA by flint glass & ah cama-sotz, out now on ant-zen"
     },
     {
       "image": "/images/thomas_leer.png",
-      "copy": "Remixing the synth legend that is Thomas Leer. The man behind the seminal album 'The Bridge' is putting together a new album 'Emotional Hardware' and we were invited to remix the title track."
+      "copy": "Remixing the synth legend that is Thomas Leer. The man behind the seminal album 'The Bridge' is putting together a new album 'Emotional Hardware' and we were invited to remix the title track.",
+      "link": "https://soundcloud.com/thomasleer/emotional-hardware-room-of-wires-mix"
     },
     {
       "image": "/images/weldroid_row.png",
