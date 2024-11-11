@@ -118,6 +118,20 @@
       "info": "Section27 Cat no. [S27-176] Feb 2020"
     }
   ],
+  "remixes": [
+    {
+      "link": "https://ant-zen.bandcamp.com/album/wakonda",
+      "image": "/images/wakonda_rmx.jpg",
+      "copy": "Aymara (Room of Wires rmx) appears on WAKONDA a remix album by flint glass & ah cama-sotz",
+      "info": "ant-zen [dig106] - Nov 2024"
+    },
+    {
+      "link": "https://ant-zen.bandcamp.com/album/emergency-landing",
+      "image": "/images/emergency_landing.jpg",
+      "copy": "The Beginning (Room of Wires rmx) opens the 'Emergency Landing' album by anatoly grinberg & andreas davids",
+      "info": "ant-zen [dig077] - Nov 2024"
+    }
+  ],
   "compilations": [
     {
       "link": "https://www.youtube.com/watch?v=1gDu0cwvYqs",
