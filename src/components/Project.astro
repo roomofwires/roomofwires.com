@@ -13,7 +13,7 @@ const { link, image, copy } = Astro.props;
         {
           link ? (
             <p class="text-clay pt-2">
-              <a href={link}>More &gt;</a>
+              <a href={link[0]}>{link[1]} &gt;</a>
             </p>
           ) : (
             <span />

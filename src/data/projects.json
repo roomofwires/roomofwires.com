@@ -3,52 +3,63 @@
     {
       "image": "/images/Peltiform_Numerik.jpg",
       "copy": "A collaboration with long-term friends from S27 evolved into a companion LP to Like Phantoms for Peltiform entitled Numerik out on Mahorka.",
-      "link": "https://mahorka.bandcamp.com/album/numerik"
+      "link": ["https://mahorka.bandcamp.com/album/numerik", "Listen"]
     },
     {
       "image": "/images/decayed_compilation.jpg",
       "copy": "10yrs of isolation and collaboration required something special. We joined with some of our allies from the last decade to create an album of highlights from the past. Featuring: The Dronefynder General, Tomoroh Hidari, Peltiform, Cognition Delay, Weldroid, Daz Disley, and 4T Thieves in a seamless mix by Section 27.",
-      "link": "/decayed"
+      "link": ["/decayed", "More"]
     },
     {
       "image": "/images/Station_Zero_image_pic.jpg",
       "copy": "Pushing our isolationary approach still further, this time across the pond to Wisconsin, with Station Zero. Things are darker, rougher, more experimental, and drenched in glorious feedback. The latest is a full length album on ant-zen, find out more details here...",
-      "link": "/stationzero"
+      "link": ["/stationzero", "More"]
     },
     {
       "image": "/images/dasf.jpg",
       "copy": "Both Andrews join forces with The Dronefynder General to create DasF. Dark unsettling electronica, forged from evaporating melodies and throbbing layers of sonic disquiet.",
-      "link": "/dasf"
+      "link": ["/dasf", "More"]
     },
     {
       "image": "/images/4t_thieves.jpg",
       "copy": "Sometimes a collaboration goes further, and creating music with 4T Thieves, out of Finland, has really just worked. First up was remixes, and then a couple of tracks together, and then we all felt it right to go for a full album - Coldfire is out now on PingDiscs. Find out more about the releases...",
-      "link": "/4t_thieves"
+      "link": ["/4t_thieves", "More"]
     },
     {
       "image": "/images/flint_glass_remix.jpg",
-      "copy": "Our remix of aymara features on the album WAKONDA by flint glass & ah cama-sotz, out now on ant-zen"
+      "copy": "Our remix of aymara features on the album WAKONDA by flint glass & ah cama-sotz, out now on ant-zen",
+      "link": ["https://ant-zen.bandcamp.com/album/wakonda", "Listen"]
     },
     {
       "image": "/images/thomas_leer.png",
       "copy": "Remixing the synth legend that is Thomas Leer. The man behind the seminal album 'The Bridge' is putting together a new album 'Emotional Hardware' and we were invited to remix the title track.",
-      "link": "https://soundcloud.com/thomasleer/emotional-hardware-room-of-wires-mix"
+      "link": [
+        "https://soundcloud.com/thomasleer/emotional-hardware-room-of-wires-mix",
+        "Listen"
+      ]
     },
     {
       "image": "/images/weldroid_row.png",
-      "copy": "A collaboration of minds and wires, ground-up development of five new tracks with the mighty Weldroid. 'The depth of vision with this union is utterly absorbing' - Igloo Mag."
+      "copy": "A collaboration of minds and wires, ground-up development of five new tracks with the mighty Weldroid. 'The depth of vision with this union is utterly absorbing' - Igloo Mag.",
+      "link": ["https://youtu.be/WtIZ4eRit8s", "Listen"]
     },
     {
       "image": "/images/pentatonik.png",
-      "copy": "Pentatonik (R. Simeon Bowring) created some huge '90s electronica classics. As part of the Touched Music remixes album we got to re-work the brilliant track 'Ray of Light'."
+      "copy": "Pentatonik (R. Simeon Bowring) created some huge '90s electronica classics. As part of the Touched Music remixes album we got to re-work the brilliant track 'Ray of Light'.",
+      "link": ["https://www.youtube.com/watch?v=hliB7F6ftyc", "Listen"]
     },
     {
       "image": "/images/eat_the_sun.png",
-      "copy": "Our 'twitchy glitchy' remix of 'Fingers' for Eat the Sun features on their debut EP, also entitled 'Fingers'."
+      "copy": "Our 'twitchy glitchy' remix of 'Fingers' for Eat the Sun features on their debut EP, also entitled 'Fingers'.",
+      "link": ["https://eatthesun1.bandcamp.com/album/fingers-ep", "Listen"]
     },
     {
       "image": "/images/frankie_machina.png",
-      "copy": "'Imagine robots and cyborgs creating machine music in dark seedy back rooms' - that's Frankie Machina, We created a brutal remix of his track 'Autoburn' featured on the 'Psychopomp' album."
+      "copy": "'Imagine robots and cyborgs creating machine music in dark seedy back rooms' - that's Frankie Machina, We created a brutal remix of his track 'Autoburn' featured on the 'Psychopomp' album.",
+      "link": [
+        "https://blackboxrecordings.bandcamp.com/album/knees-up-motherboard-deluxe-edition",
+        "Listen"
+      ]
     }
   ]
 }
