@@ -130,6 +130,62 @@
       "image": "/images/emergency_landing.jpg",
       "copy": "The Beginning remix on Emergency Landing by Grinberg & Davids",
       "info": "ant-zen [dig077] - Nov 2024"
+    },
+
+    {
+      "link": "https://ill-o-can-b-lo.bandcamp.com/album/liminal-rhythms-ecu009",
+      "image": "/images/liminal_rhythms.jpg",
+      "copy": "Echoes (Room of Wires Remix) appears on Liminal Rhythms by illocanblo",
+      "info": "Cat no. [ECU009] - Aug 2023"
+    },
+
+    {
+      "link": "https://ping-discs.bandcamp.com/album/the-vinyl-loop",
+      "image": "/images/vinyl_loop.jpg",
+      "copy": "Paperboard Sun - Room of Wires remix appears on The Vinyl Loop by 4T Thieves",
+      "info": "Pingdiscs P-bumt-Ubum - Sept 2022"
+    },
+    {
+      "link": "https://rauschkonzern.bandcamp.com/album/fake-news",
+      "image": "/images/fake_news.jpg",
+      "copy": "Fake News - two remixes for Steinhart on Rauschkonzern Records",
+      "info": "Rauschkonzern Records - July 2022"
+    },
+    {
+      "link": "https://eatthesun1.bandcamp.com/album/fingers-ep",
+      "image": "/images/ets_fingers.jpg",
+      "copy": "Fingers Room of Wires remix appears on Fingers EP by Eat The Sun",
+      "info": "Self released on Bandcamp Nov 2019"
+    },
+    {
+      "link": "https://blackboxrecordings.bandcamp.com/album/fear-of-a-pink-planet",
+      "image": "/images/fear_of_pink.jpg",
+      "copy": "Tranny Europe Express Room of Wires remix appears on Fear of a Pink Planet by MODWUMP",
+      "info": "Black Box Recordings Oct 2019"
+    },
+    {
+      "link": "https://kaer-uiks.bandcamp.com/album/maneuvers",
+      "image": "/images/maneuvers.png",
+      "copy": "Vandal Attack Room of Wires remix appears on Maneuvers by Weldroid & Friends",
+      "info": "Kaer Uiks Aug 2019 - KRX023"
+    },
+    {
+      "link": "https://open.spotify.com/track/5dxJ123EMkQWZwBHJZuCX7?si=538500c51659461e",
+      "image": "/images/psychopomp2.jpg",
+      "copy": "Autoburn Room of Wires remix appears on Psychopomp by Frankie Machina",
+      "info": "Black Box Recordings Aug 2019"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/hallucino-attics-dissolved-re-constructed-2001-2006",
+      "image": "/images/hallucino-attics.jpg",
+      "copy": "Project 2005 Room of Wires remix appears on Hallucino Attics compilation",
+      "info": "Section27 Cat no. [S27-162] 2017"
+    },
+    {
+      "link": "https://section27.bandcamp.com/album/iso-reform",
+      "image": "/images/iso-reform.jpg",
+      "copy": "Isoforms (Room of Wires remix) appears on Iso:Reform compilation by Mitoma",
+      "info": "Section27 Cat no. [S27-136] Nov 2014"
     }
   ],
   "compilations": [
@@ -156,12 +212,6 @@
       "image": "/images/island_flux_remixes.jpg",
       "copy": "Island Flux remixes brings together a diverse group of artists including Sea Above (Room of Wires remix)",
       "info": "Cat No. [S27-201] - Sept 2023"
-    },
-    {
-      "link": "https://ill-o-can-b-lo.bandcamp.com/album/liminal-rhythms-ecu009",
-      "image": "/images/liminal_rhythms.jpg",
-      "copy": "Echoes (Room of Wires Remix) appears on Liminal Rhythms by illocanblo",
-      "info": "Cat no. [ECU009] - Aug 2023"
     },
     {
       "link": "https://mahorka.bandcamp.com/album/the-shipping-forecast",
@@ -192,18 +242,6 @@
       "image": "/images/afterthoughts_va.jpg",
       "copy": "Madness of Nigh and Slow Coma with 4T Thieves appears on the compilation Afterthoughts",
       "info": "Kahvi Collective - Dec 2022"
-    },
-    {
-      "link": "https://ping-discs.bandcamp.com/album/the-vinyl-loop",
-      "image": "/images/vinyl_loop.jpg",
-      "copy": "Paperboard Sun - Room of Wires remix appears on The Vinyl Loop by 4T Thieves",
-      "info": "Pingdiscs P-bumt-Ubum - Sept 2022"
-    },
-    {
-      "link": "https://rauschkonzern.bandcamp.com/album/fake-news",
-      "image": "/images/fake_news.jpg",
-      "copy": "Fake News - two remixes for Steinhart on Rauschkonzern Records",
-      "info": "Rauschkonzern Records - July 2022"
     },
     {
       "link": "https://musicanalysisdiscussionsrecords.bandcamp.com/album/m-a-d-ii",
@@ -248,30 +286,6 @@
       "info": "Black Box Recordings Apr 2020"
     },
     {
-      "link": "https://eatthesun1.bandcamp.com/album/fingers-ep",
-      "image": "/images/ets_fingers.jpg",
-      "copy": "Fingers Room of Wires remix appears on Fingers EP by Eat The Sun",
-      "info": "Self released on Bandcamp Nov 2019"
-    },
-    {
-      "link": "https://blackboxrecordings.bandcamp.com/album/fear-of-a-pink-planet",
-      "image": "/images/fear_of_pink.jpg",
-      "copy": "Tranny Europe Express Room of Wires remix appears on Fear of a Pink Planet by MODWUMP",
-      "info": "Black Box Recordings Oct 2019"
-    },
-    {
-      "link": "https://kaer-uiks.bandcamp.com/album/maneuvers",
-      "image": "/images/maneuvers.png",
-      "copy": "Vandal Attack Room of Wires remix appears on Maneuvers by Weldroid & Friends",
-      "info": "Kaer Uiks Aug 2019 - KRX023"
-    },
-    {
-      "link": "https://open.spotify.com/track/5dxJ123EMkQWZwBHJZuCX7?si=538500c51659461e",
-      "image": "/images/psychopomp2.jpg",
-      "copy": "Autoburn Room of Wires remix appears on Psychopomp by Frankie Machina",
-      "info": "Black Box Recordings Aug 2019"
-    },
-    {
       "link": "https://section27.bandcamp.com/album/ix-xix-2009-2019-showcase",
       "image": "/images/s27_showcase.jpg",
       "copy": "Asylum Sneaker appears on the IX-XIX : 2009-2019 Showcase compilation",
@@ -312,12 +326,6 @@
       "image": "/images/cherno.jpg",
       "copy": "Chern O - Video/audio collaboration with Cesar Naves",
       "info": "Self released May 2017"
-    },
-    {
-      "link": "https://section27.bandcamp.com/album/hallucino-attics-dissolved-re-constructed-2001-2006",
-      "image": "/images/hallucino-attics.jpg",
-      "copy": "Project 2005 Room of Wires remix appears on Hallucino Attics compilation",
-      "info": "Section27 Cat no. [S27-162] 2017"
     },
     {
       "link": "https://unexplainedsoundsgroup.bandcamp.com/album/unexplained-sounds-2016-the-2nd-annual-report",
@@ -366,12 +374,6 @@
       "image": "/images/sectioned-v50.jpg",
       "copy": "Overtones appears on Sectioned V5.0 Compilation",
       "info": "Section27 Cat no. [S27-141] April 2015"
-    },
-    {
-      "link": "https://section27.bandcamp.com/album/iso-reform",
-      "image": "/images/iso-reform.jpg",
-      "copy": "Isoforms (Room of Wires remix) appears on Iso:Reform compilation by Mitoma",
-      "info": "Section27 Cat no. [S27-136] Nov 2014"
     },
     {
       "link": "https://touched.bandcamp.com/album/touched-two",
