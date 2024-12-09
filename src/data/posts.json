@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "http://www.ebm-radio.de/",
+      "image": "/images/lauschangriff_165.jpg",
+      "copy": "Lauschangriff #165 - Industrial, Techno, Dark Electro mixed by Saartyr"
+    },
+    {
       "link": "https://mahorka.bandcamp.com/album/numerik",
       "image": "/images/numerik_sleeve.jpg",
       "copy": "New album from Peltiform including our collaborative track Jitr"
