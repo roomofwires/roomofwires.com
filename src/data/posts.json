@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://pingdiscs.bandcamp.com/album/may-day-2",
+      "image": "/images/may-day-2.jpg",
+      "copy": "Our collaboration with 4T Thieves, Soul Engine, appears on the Pingdiscs compilation May Day 2"
+    },
+    {
       "link": "https://www.mixcloud.com/SelfOscillate/ingos-electronica-mix-48",
       "image": "/images/adastra_mix_48.jpg",
       "copy": "Electronica Mix #48 - Skee Mask, FSOL, Objekt, Wankers United, 4T Thieves/Room of Wires, plus more"

@@ -190,6 +190,12 @@
   ],
   "compilations": [
     {
+      "link": "https://pingdiscs.bandcamp.com/album/may-day-2",
+      "image": "/images/may-day-2.jpg",
+      "copy": "Our collaboration Soul Engine appears on May Day 2",
+      "info": "Cat No. [P-Pop-T-Flounce] - May 2025"
+    },
+    {
       "link": "https://www.youtube.com/watch?v=1gDu0cwvYqs",
       "image": "/images/song_for_astronauts.jpg",
       "copy": "Song for Astronauts - an audio/visual tribute",
