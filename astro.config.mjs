@@ -11,8 +11,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://roomofwires.github.io",
-  base: "/roomofwires.com",
+  site: "https://roomofwires.com",
   
   integrations: [
     tailwind(),
