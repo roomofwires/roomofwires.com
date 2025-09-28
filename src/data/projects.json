@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "image": "/images/dasf.jpg",
+      "copy": "Both Andrews join forces with The Dronefynder General to create DasF. Dark unsettling electronica, forged from evaporating melodies and throbbing layers of sonic disquiet.",
+      "link": ["/dasf", "More"]
+    },
+    {
       "image": "/images/Peltiform_Numerik.jpg",
       "copy": "A collaboration with long-term friends from S27 evolved into a companion LP to Like Phantoms for Peltiform entitled Numerik out on Mahorka.",
       "link": ["https://mahorka.bandcamp.com/album/numerik", "Listen"]
@@ -14,11 +19,6 @@
       "image": "/images/Station_Zero_image_pic.jpg",
       "copy": "Pushing our isolationary approach still further, this time across the pond to Wisconsin, with Station Zero. Things are darker, rougher, more experimental, and drenched in glorious feedback. The latest is a full length album on ant-zen, find out more details here...",
       "link": ["/stationzero", "More"]
-    },
-    {
-      "image": "/images/dasf.jpg",
-      "copy": "Both Andrews join forces with The Dronefynder General to create DasF. Dark unsettling electronica, forged from evaporating melodies and throbbing layers of sonic disquiet.",
-      "link": ["/dasf", "More"]
     },
     {
       "image": "/images/4T_Project_Sq.jpg",

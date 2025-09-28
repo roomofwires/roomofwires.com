@@ -3,23 +3,17 @@ const { link, image, copy } = Astro.props;
 ---
 
 <div class="mx-auto bg-coal w-full">
-  <div>
-    <div class="aspect-w-1 aspect-h-1">
-      <img src={image} alt={copy} class="object-cover" />
-    </div>
-    <div class="flex p-2 h-40 lg:h-28 w-[80%] text-left aspect-none">
-      <div class="text-xs acumin">
-        <p class="text-sand">{copy}</p>
-        {
-          link ? (
-            <p class="text-clay pt-2">
-              <a href={link[0]}>{link[1]} &gt;</a>
-            </p>
-          ) : (
-            <span />
-          )
-        }
+  <a href={link[0]} target="_blank">
+    <div>
+      <div class="aspect-w-1 aspect-h-1">
+        <img src={image} alt={copy} class="object-cover" />
+      </div>
+      <div class="flex p-2 h-40 lg:h-28 w-[80%] text-left aspect-none">
+        <div class="text-xs acumin">
+          <p class="text-sand">{copy}</p>
+          <p class="text-clay pt-2">{link[1]} &gt;</p>
+        </div>
       </div>
     </div>
-  </div>
+  </a>
 </div>
