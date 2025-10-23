@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://roomofwires.bandcamp.com/album/if-no-other-means-are-effective",
+      "image": "/images/other_means_cover.jpg",
+      "copy": "Our new album, the first for nearly 3 years, is out on December 1st"
+    },
+    {
       "link": "https://rednetic.bandcamp.com/album/bordata-ep",
       "image": "/images/DasF_bordata_cover.jpg",
       "copy": "Out now on Rednetic, Bordata EP by DasF"
