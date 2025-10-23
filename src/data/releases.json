@@ -88,6 +88,12 @@
   ],
   "collaborations": [
     {
+      "link": "https://rednetic.bandcamp.com/album/bordata-ep",
+      "image": "/images/DasF_bordata_cover.jpg",
+      "copy": "Bordata - 4 track EP on Rednetic",
+      "info": "Rednetic - Oct 2025"
+    },
+    {
       "link": "https://mahorka.bandcamp.com/album/numerik",
       "image": "/images/numerik_sleeve.jpg",
       "copy": "Numerik - 6 track album includes our collaboration track Jitr",
@@ -126,6 +132,12 @@
   ],
   "remixes": [
     {
+      "link": "https://mahorka.org/release/463",
+      "image": "/images/TOKEE_Room_of_Wires.jpg",
+      "copy": "TOKEE - Путешествие Remixes (Track 10 by Room of Wires)",
+      "info": "Mahorka [mhrk463] - October 2025"
+    },
+    {
       "link": "https://ant-zen.bandcamp.com/album/wakonda",
       "image": "/images/wakonda_rmx.jpg",
       "copy": "Aymara remix appears on WAKONDA, an album by Flint Glass & Ah Cama-Sotz",
@@ -137,14 +149,12 @@
       "copy": "The Beginning remix on Emergency Landing by Grinberg & Davids",
       "info": "ant-zen [dig077] - Nov 2024"
     },
-
     {
       "link": "https://ill-o-can-b-lo.bandcamp.com/album/liminal-rhythms-ecu009",
       "image": "/images/liminal_rhythms.jpg",
       "copy": "Echoes (Room of Wires Remix) appears on Liminal Rhythms by illocanblo",
       "info": "Cat no. [ECU009] - Aug 2023"
     },
-
     {
       "link": "https://ping-discs.bandcamp.com/album/the-vinyl-loop",
       "image": "/images/vinyl_loop.jpg",

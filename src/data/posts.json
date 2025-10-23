@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "link": "https://rednetic.bandcamp.com/album/bordata-ep",
+      "image": "/images/DasF_bordata_cover.jpg",
+      "copy": "Out now on Rednetic, Bordata EP by DasF"
+    },
+    {
+      "link": "https://mahorka.org/release/463",
+      "image": "/images/TOKEE_Room_of_Wires.jpg",
+      "copy": "TOKEE - Путешествие Remixes from Genda, Flint Glass, Weldroid, Room of Wires, plus many more"
+    },
+    {
       "link": "https://pingdiscs.bandcamp.com/album/may-day-2",
       "image": "/images/may-day-2.jpg",
       "copy": "Our collaboration with 4T Thieves, Soul Engine, appears on the Pingdiscs compilation May Day 2"
