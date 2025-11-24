@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://igloomag.com/reviews/dasf-bordata-rednetic",
+      "image": "/images/igloo-bordata.png",
+      "copy": "'Melds bleak industrial electronics with fractured, acid-tinged textures' - Igloo reviews Bordata EP"
+    },
+    {
       "link": "https://rednetic.bandcamp.com/album/bordata-ep",
       "image": "/images/DasF_bordata_cover.jpg",
       "copy": "Out now on Rednetic, Bordata EP by DasF"
