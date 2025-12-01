@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://roomofwires.bandcamp.com/album/if-no-other-means-are-effective",
+      "image": "/images/other_means_cover.jpg",
+      "copy": "Our new album, the first for nearly 3 years, is out now"
+    },
+    {
       "link": "https://igloomag.com/reviews/dasf-bordata-rednetic",
       "image": "/images/igloo-bordata.png",
       "copy": "'Melds bleak industrial electronics with fractured, acid-tinged textures' - Igloo reviews Bordata EP"

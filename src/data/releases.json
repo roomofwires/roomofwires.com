@@ -12,6 +12,12 @@
   ],
   "albums": [
     {
+      "link": "https://roomofwires.bandcamp.com/album/if-no-other-means-are-effective",
+      "image": "/images/other_means_cover.jpg",
+      "copy": "Welcome to the End Game - 10 track LP",
+      "info": "Self released on Bandcamp Dec 2025"
+    },
+    {
       "link": "https://ant-zen.bandcamp.com/album/welcome-to-the-end-game",
       "image": "/images/end-game-cover.jpg",
       "copy": "Welcome to the End Game - 10 track LP",
