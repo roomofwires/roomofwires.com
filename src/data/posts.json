@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://radio1.cz/dj/nitrous/?tracklist=183725#tracklist",
+      "image": "/images/radio1-cz-nitrous.jpg",
+      "copy": "Featured on the Nitrous show on Radio1.cz alongside µ-Ziq, Gimmik, Gescom and more"
+    },
+    {
       "link": "https://igloomag.com/reviews/room-of-wires-if-no-other-means-are-effective",
       "image": "/images/Room_of_Wires_INOMAE_Igloo.jpg",
       "copy": "'Luminous, reflective fragments' - Igloo reviews our If no other means are effective"
