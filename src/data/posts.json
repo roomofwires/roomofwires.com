@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://alienairpodcast.podbean.com/e/2025decno2-idm-ambient",
+      "image": "/images/alien_air_podcast.jpg",
+      "copy": "Two hours of uninterrupted IDM and ambient, featuring Exm, Weldroid, ASC, Room of Wires and more"
+    },
+    {
       "link": "https://radio1.cz/dj/nitrous/?tracklist=183725#tracklist",
       "image": "/images/radio1-cz-nitrous.jpg",
       "copy": "Featured on the Nitrous show on Radio1.cz alongside µ-Ziq, Gimmik, Gescom and more"
