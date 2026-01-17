@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://sciencecult.com/radio-episodes/science-cult-radio-052-ec-underground/",
+      "image": "/images/science_cult_radio_52.jpg",
+      "copy": "Featured on Science Cult Radio: #052 EC Underground alongside Kitbuilders, Hexalyne, Ruxpin and more"
+    },
+    {
       "link": "https://alienairpodcast.podbean.com/e/2025decno2-idm-ambient",
       "image": "/images/alien_air_podcast.jpg",
       "copy": "Two hours of uninterrupted IDM and ambient, featuring Exm, Weldroid, ASC, Room of Wires and more"
