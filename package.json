@@ -17,7 +17,7 @@
     "@astrojs/tailwind": "^6.0.2",
     "@types/alpinejs": "^3.13.11",
     "alpinejs": "^3.15.4",
-    "astro": "^5.16.10",
+    "astro": "^5.16.11",
     "prettier": "^3.8.0",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.6.14",
