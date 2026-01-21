@@ -1,7 +1,12 @@
 {
   "posts": [
     {
-      "link": "https://sciencecult.com/radio-episodes/science-cult-radio-052-ec-underground/",
+      "link": "https://open.spotify.com/playlist/1ZnYDrkMp0hVez5CLx2rRa",
+      "image": "/images/IDM-2025-playlist.jpg",
+      "copy": "Featured on the ECU best of IDM 2025 playlist"
+    },
+    {
+      "link": "https://sciencecult.com/radio-episodes/science-cult-radio-052-ec-underground",
       "image": "/images/science_cult_radio_52.jpg",
       "copy": "Featured on Science Cult Radio: #052 EC Underground alongside Kitbuilders, Hexalyne, Ruxpin and more"
     },
