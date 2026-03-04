@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://www.dublab.com/shows/transition",
+      "image": "/images/Dublab_Transition.jpg",
+      "copy": "Featuring Room of Wires on Dublab's Transition show with DJ Daniel Troberg - Friday 6th March 2026 10pm PT"
+    },
+    {
       "link": "https://publicpressure.org/releases/room-of-wires-if-no-other-means-are-effective",
       "image": "/images/INOMAE-publicpressure.jpg",
       "copy": "Public Pressure magazine features Room of Wires"
