@@ -26,5 +26,8 @@
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2"
+  },
+  "overrides": {
+    "yaml": "2.8.3"
   }
 }
