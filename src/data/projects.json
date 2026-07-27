@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "image": "/images/clc_teaser_still.jpg",
+      "copy": "The two Andrews pummel your senses with rich, intoxicating, electronic textures. Shunning classification, defying expectations, bringing fresh thinking to the darker side. Mixing chaos and calm, creating evolving textures with fractured beats to create a landscape not constrained by genres.",
+      "link": ["https://cavelikecarving.com", "More"]
+    },
+    {
       "image": "/images/dasf.jpg",
       "copy": "Both Andrews join forces with The Dronefynder General to create DasF. Dark unsettling electronica, forged from evaporating melodies and throbbing layers of sonic disquiet.",
       "link": ["/dasf", "More"]
