@@ -57,6 +57,10 @@ const { title } = Astro.props;
   <body class="bg-coal">
     <slot />
     <style is:global>
+      @tailwind base;
+      @tailwind components;
+      @tailwind utilities;
+
       @font-face {
         font-family: "AcuminPro";
         src: url("/fonts/AcuminProRegular.woff") format("woff");
