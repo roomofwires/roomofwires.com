@@ -1,6 +1,11 @@
 {
   "posts": [
     {
+      "link": "https://open.spotify.com/album/7keG1nq4CnzzCbGOEaeRUN?si=iiRDAQSWRSmZBVaUabe32w",
+      "image": "/images/Skin_Weevil_cover.jpg",
+      "copy": "Our new single Skin Weevil, featuring a remix of Kin Evil plus a brand new track, is out now on streaming platforms"
+    },
+    {
       "link": "https://www.subvert.fm/roomofwires",
       "image": "/images/subvert-launch.jpg",
       "copy": "Our four full-length albums are now available on Subvert, the music platform owned by its community"
