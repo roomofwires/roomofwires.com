@@ -44,6 +44,16 @@ import releases from "../data/releases.json";
         </div>
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 pb-4">
           <div class="flex items-center justify-center bg-black min-h-24">
+            <p class="text-clay brutal text-3xl">SINGLES</p>
+          </div>
+          {
+            releases.singles.map(({ link, image, copy, info }) => (
+              <Card link={link} image={image} copy={copy} info={info} />
+            ))
+          }
+        </div>
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4 pb-4">
+          <div class="flex items-center justify-center bg-black min-h-24">
             <p class="text-clay brutal text-3xl">EPs</p>
           </div>
           {
