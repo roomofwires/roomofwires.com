@@ -22,11 +22,18 @@ const { location } = Astro.props;
         <MainMenu location={location} />
       </div>
       <div class="flex lg:hidden" x-data="{ open: false }">
-        <div class="space-y-1.5" x-on:click="open = ! open">
+        <button
+          type="button"
+          class="space-y-1.5 self-start"
+          aria-label="Main menu"
+          aria-expanded="false"
+          x-bind:aria-expanded="open"
+          x-on:click="open = ! open"
+        >
           <span class="block w-8 h-1 bg-gold"></span>
           <span class="block w-8 h-1 bg-gold"></span>
           <span class="block w-8 h-1 bg-gold"></span>
-        </div>
+        </button>
         <div class="relative">
           <div
             class="absolute w-36 -right-2 top-12 p-4 space-y-1.5 brutal text-right bg-coal z-10"
